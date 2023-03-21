@@ -1,0 +1,1245 @@
+"index";"Company";"TypeName";"Inches";"screen_size";"resolution_width";"resolution_height";"touchscreen";"cpu_brand";"Ram";"memory_type";"primary_storage";"secondary_storage";"gpu_brand";"gpu_name";"OpSys";"Weight";"price";"ppi"
+1;"Apple";"Ultrabook";13.3;"small";2560;1600;0;"2.30";8;"SSD";128;0;"Intel";" Iris Plus Graphics 640";"macos";8;71379;227
+2;"Apple";"Ultrabook";13.3;"small";1440;900;0;"1.80";8;"Flash Storage";128;0;"Intel";" HD Graphics 6000";"macos";8;47896;128
+3;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"N/A";8;30636;141
+4;"Apple";"Ultrabook";15.4;"medium";2880;1800;0;"2.70";16;"SSD";512;0;"AMD";" Radeon Pro 455";"macos";16;135195;221
+5;"Apple";"Ultrabook";13.3;"small";2560;1600;0;"3.10";8;"SSD";256;0;"Intel";" Iris Plus Graphics 650";"macos";8;96096;227
+6;"Acer";"Notebook";15.6;"medium";1366;768;0;"3.00";4;"HDD";500;0;"AMD";" Radeon R5";"windows";4;21312;100
+7;"Apple";"Ultrabook";15.4;"medium";2880;1800;0;"2.20";16;"Flash Storage";256;0;"Intel";" Iris Pro Graphics";"macos";16;80635;221
+8;"Apple";"Ultrabook";13.3;"small";1440;900;0;"1.80";8;"Flash Storage";256;0;"Intel";" HD Graphics 6000";"macos";8;61736;128
+9;"Asus";"Ultrabook";14.0;"medium";1920;1080;0;"1.80";16;"SSD";512;0;"Nvidia";" GeForce MX150";"windows";16;79654;157
+10;"Acer";"Ultrabook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;41026;157
+11;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"N/A";4;20987;100
+12;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"N/A";4;18381;141
+13;"Apple";"Ultrabook";15.4;"medium";2880;1800;0;"2.80";16;"SSD";256;0;"AMD";" Radeon Pro 555";"macos";16;130002;221
+14;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"SSD";256;0;"AMD";" Radeon R5 M430";"windows";4;26581;141
+15;"Apple";"Ultrabook";12.0;"small";2304;1440;0;"1.20";8;"SSD";256;0;"Intel";" HD Graphics 615";"macos";8;67261;226
+16;"Apple";"Ultrabook";13.3;"small";2560;1600;0;"2.30";8;"SSD";256;0;"Intel";" Iris Plus Graphics 640";"macos";8;80908;227
+17;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"AMD";" Radeon R5 M430";"windows";8;39694;141
+18;"Apple";"Ultrabook";15.4;"medium";2880;1800;0;"2.90";16;"SSD";512;0;"AMD";" Radeon Pro 560";"macos";16;152274;221
+19;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.40";8;"HDD";1024;0;"Nvidia";" GeForce 940MX";"N/A";8;26587;141
+0;"Dell";"Ultrabook";13.3;"small";1920;1080;1;"1.60";8;"SSD";128;0;"Intel";" UHD Graphics 620";"windows";8;52161;166
+22;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;53227;141
+23;"HP";"Notebook";15.6;"medium";1366;768;0;"1.50";4;"HDD";500;0;"AMD";" Radeon R2";"N/A";4;13746;100
+24;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;43636;166
+25;"HP";"Ultrabook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;35112;141
+26;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";4;22305;100
+27;"Apple";"Ultrabook";13.3;"small";1440;900;0;"1.60";8;"Flash Storage";128;0;"Intel";" HD Graphics 6000";"macos";8;58555;128
+28;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"AMD";" Radeon 530";"windows";8;42624;141
+29;"Dell";"Ultrabook";15.6;"medium";1920;1080;0;"1.90";8;"SSD";256;256;"Intel";" UHD Graphics 620";"windows";8;69157;141
+30;"HP";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"HDD";1024;0;"Nvidia";" GeForce 930MX";"windows";8;47739;127
+31;"Chuwi";"Notebook";15.6;"medium";1920;1080;0;"1.44";4;"Flash Storage";64;0;"Intel";" HD Graphics";"windows";4;13053;141
+32;"Asus";"Notebook";14.0;"medium";1366;768;0;"1.50";2;"Flash Storage";32;0;"AMD";" Radeon R2";"windows";2;10603;112
+33;"HP";"Notebook";17.3;"large";1920;1080;0;"2.50";4;"HDD";500;0;"AMD";" Radeon 530";"windows";4;23390;127
+34;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"1.80";16;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";16;99580;276
+35;"Apple";"Ultrabook";13.3;"small";1440;900;0;"1.60";8;"Flash Storage";256;0;"Intel";" HD Graphics 6000";"macos";8;53173;128
+36;"Lenovo";"Notebook";14.0;"medium";1366;768;0;"1.10";4;"Flash Storage";64;0;"Intel";" HD Graphics 500";"windows";4;13267;112
+37;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.70";4;"HDD";1024;0;"Intel";" HD Graphics 620";"linux";4;19554;100
+38;"Dell";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"Hybrid";128;1024;"AMD";" Radeon 530";"windows";8;52161;127
+39;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;26037;100
+40;"HP";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Nvidia";" GeForce 930MX ";"windows";8;46833;141
+41;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 620";"linux";4;20726;141
+42;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;79867;141
+43;"Asus";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce 940MX";"linux";8;27865;100
+44;"Acer";"Notebook";15.6;"medium";1920;1080;0;"1.60";4;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";4;36337;141
+45;"Dell";"2 in 1 Convertible";17.3;"large";1920;1080;1;"1.60";12;"HDD";1024;0;"Nvidia";" GeForce 150MX";"windows";12;53227;127
+0;"Apple";"Ultrabook";13.3;"small";2560;1600;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"macos";8;52161;227
+48;"Asus";"Gaming";17.3;"large";1920;1080;0;"3.00";8;"Hybrid";256;1024;"AMD";" Radeon RX 580";"windows";8;69211;127
+49;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"AMD";" Radeon R5 M430";"windows";4;34046;141
+0;"Asus";"Notebook";17.3;"large";1366;768;0;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;52161;91
+52;"Acer";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Nvidia";" GeForce MX150";"windows";8;44808;141
+53;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"AMD";" Radeon R4 Graphics";"windows";4;21232;141
+54;"HP";"Notebook";13.3;"small";1920;1080;0;"1.80";8;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";8;58768;166
+55;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.40";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;20460;100
+56;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"AMD";" Radeon 520";"windows";8;40908;141
+57;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;23390;141
+58;"Asus";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;31232;100
+59;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;2048;"Nvidia";" GeForce GTX 1070";"windows";16;130483;127
+60;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"SSD";256;0;"Intel";" HD Graphics 520";"linux";4;22111;141
+61;"Dell";"Notebook";17.3;"large";1920;1080;0;"1.80";16;"Hybrid";256;2048;"AMD";" Radeon 530";"windows";16;69211;127
+62;"Dell";"Ultrabook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;46833;157
+63;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"N/A";8;31915;157
+64;"Asus";"Notebook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;50136;157
+65;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;36763;141
+66;"Asus";"Ultrabook";15.6;"medium";1920;1080;0;"2.80";16;"SSD";512;0;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;105654;141
+67;"HP";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"AMD";" Radeon 520";"windows";4;23373;100
+68;"HP";"Notebook";14.0;"medium";1366;768;0;"1.60";4;"SSD";32;0;"Intel";" HD Graphics 400";"windows";4;12201;112
+69;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;29251;141
+70;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";12;"HDD";1024;0;"Nvidia";" GeForce GTX 1050 Ti";"linux";12;50563;127
+71;"Microsoft";"Ultrabook";13.5;"small";2256;1504;1;"2.50";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;58022;201
+72;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.80";64;"SSD";256;0;"AMD";" Radeon 530";"windows";64;50882;166
+73;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"AMD";" Radeon 530";"windows";8;46354;141
+74;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;58342;127
+75;"Acer";"Notebook";14.0;"medium";1366;768;0;"2.00";8;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";8;20726;112
+76;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;50563;141
+77;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";2048;0;"Intel";" HD Graphics 620";"N/A";8;27652;141
+78;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"Hybrid";128;1024;"Intel";" UHD Graphics 620";"windows";8;45554;141
+79;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.70";4;"HDD";1024;0;"Nvidia";" GeForce MX130";"windows";4;28238;141
+80;"HP";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"Hybrid";128;1024;"Nvidia";" GeForce 930MX";"windows";8;52055;127
+81;"Dell";"Ultrabook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;58403;141
+82;"Apple";"Ultrabook";12.0;"small";2304;1440;0;"1.30";8;"SSD";512;0;"Intel";" HD Graphics 615";"macos";8;80453;226
+83;"HP";"Notebook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;45821;157
+84;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"SSD";128;0;"AMD";" R4 Graphics";"windows";4;21259;141
+85;"Acer";"Notebook";15.6;"medium";1366;768;0;"3.00";4;"HDD";1024;0;"AMD";" Radeon R5";"windows";4;21046;100
+86;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;71875;141
+87;"HP";"Ultrabook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Nvidia";" GeForce GTX 940MX";"windows";8;37243;141
+88;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;31914;141
+89;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";16;77203;141
+90;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;87859;166
+91;"Asus";"Gaming";15.6;"medium";1920;1080;0;"3.00";8;"HDD";1024;0;"AMD";" Radeon RX 560";"windows";8;37243;141
+92;"Acer";"Notebook";15.6;"medium";1920;1080;0;"1.80";2;"HDD";1024;0;"Nvidia";" GeForce MX150";"windows";2;36710;141
+93;"HP";"Notebook";13.3;"small";1920;1080;0;"1.80";16;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";16;63776;166
+94;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1060";"windows";8;63670;141
+95;"Asus";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;55891;157
+96;"Acer";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;45128;166
+97;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"AMD";" Radeon R5 M430";"linux";8;31963;141
+98;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"SSD";256;0;"AMD";" Radeon R5 M430";"linux";4;25841;141
+99;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.40";6;"SSD";256;0;"Nvidia";" GeForce 920M";"windows";6;30743;141
+100;"HP";"Gaming";15.6;"medium";1920;1080;0;"2.80";12;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";12;66547;141
+101;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"AMD";" Radeon 530";"windows";8;38308;141
+102;"HP";"Notebook";15.6;"medium";1920;1080;0;"1.50";4;"HDD";500;0;"AMD";" Radeon R2";"windows";4;18595;141
+103;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"HDD";1024;0;"AMD";" Radeon 520";"linux";8;34472;141
+104;"HP";"Ultrabook";13.3;"small";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce MX150";"windows";8;59620;166
+105;"Microsoft";"Ultrabook";13.5;"small";2256;1504;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;71395;201
+106;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.50";6;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";6;35112;157
+107;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";4;22106;141
+108;"Asus";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;63563;157
+109;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;69211;141
+110;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;78854;157
+111;"Asus";"Ultrabook";15.6;"medium";1920;1080;0;"1.80";16;"Hybrid";256;1024;"Nvidia";" GeForce MX150";"windows";16;67239;141
+112;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"2.40";8;"SSD";256;0;"Intel";" Iris Plus Graphics 640";"windows";8;73473;276
+113;"Lenovo";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;74539;166
+114;"HP";"Notebook";14.0;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" UHD Graphics 620";"windows";4;38468;112
+0;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;52161;166
+117;"HP";"Notebook";14.0;"medium";1920;1080;0;"1.80";8;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";8;57756;157
+118;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"Hybrid";256;1024;"Nvidia";" GeForce 940MX";"windows";8;60224;141
+119;"Asus";"Notebook";17.3;"large";1920;1080;0;"2.00";4;"HDD";1024;0;"Nvidia";" GeForce 920MX";"windows";4;30050;127
+120;"Asus";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;59567;141
+121;"Acer";"Notebook";15.6;"medium";1920;1080;1;"2.40";6;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";6;25521;141
+122;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;2048;"Nvidia";" GeForce GTX 1070";"windows";16;119427;141
+123;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"N/A";8;33513;141
+124;"HP";"Notebook";17.3;"large";1920;1080;0;"1.80";16;"SSD";512;0;"Nvidia";" GeForce 930MX ";"windows";16;67719;127
+0;"Acer";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;52161;100
+127;"HP";"Notebook";14.0;"medium";1920;1080;0;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;43263;157
+128;"Asus";"Notebook";14.0;"medium";1366;768;0;"1.50";4;"SSD";64;0;"AMD";" Radeon R2";"windows";4;14811;112
+129;"Dell";"Notebook";17.3;"large";1920;1080;0;"1.80";16;"Hybrid";256;2048;"AMD";" Radeon 530";"windows";16;74379;127
+130;"HP";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;49444;127
+131;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";1024;0;"AMD";" Radeon R7 M445";"windows";8;34045;100
+132;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M430";"windows";4;23923;141
+133;"Acer";"Ultrabook";14.0;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;47100;157
+134;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.70";4;"SSD";256;0;"Nvidia";" GeForce MX130";"windows";4;30476;141
+135;"HP";"Notebook";15.6;"medium";1366;768;0;"2.70";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;31861;100
+136;"HP";"Notebook";14.0;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;52641;157
+137;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 500";"N/A";4;13446;100
+138;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;49977;127
+139;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";1024;0;"Nvidia";" GeForce 920MX";"N/A";4;26587;141
+140;"HP";"Notebook";13.3;"small";1920;1080;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;37243;166
+141;"Acer";"Notebook";17.3;"large";1920;1080;0;"2.70";4;"HDD";1024;0;"Nvidia";" GeForce MX130";"windows";4;34898;127
+142;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"AMD";" Radeon RX 550";"windows";8;59462;157
+143;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050M";"N/A";8;46300;141
+144;"Toshiba";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;32075;100
+145;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"SSD";256;0;"AMD";" Radeon R4 Graphics";"windows";4;19660;100
+146;"Asus";"Ultrabook";14.0;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;58555;157
+147;"HP";"Ultrabook";12.5;"small";3840;2160;1;"1.20";8;"SSD";512;0;"Intel";" HD Graphics 515";"windows";8;107306;352
+0;"Asus";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;52161;141
+150;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";4;23816;100
+151;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"SSD";512;0;"Nvidia";" GeForce GTX 1050";"windows";16;66561;141
+152;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;47899;141
+153;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;26533;100
+154;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;100699;127
+155;"HP";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;57649;157
+156;"HP";"Notebook";15.6;"medium";1920;1080;0;"1.60";6;"SSD";256;0;"AMD";" Radeon 520";"windows";6;32980;141
+157;"Lenovo";"2 in 1 Convertible";14.0;"medium";1920;1080;1;"2.40";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;33513;157
+158;"Asus";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.60";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;70063;166
+159;"Dell";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;55891;141
+160;"Toshiba";"Notebook";15.6;"medium";1366;768;0;"2.20";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;23816;100
+161;"Asus";"Notebook";15.6;"medium";1366;768;0;"3.00";4;"HDD";1024;0;"AMD";" Radeon R5 M420";"windows";4;21472;100
+162;"Acer";"Notebook";17.3;"large";1920;1080;0;"1.60";4;"SSD";256;0;"Nvidia";" GeForce MX150";"windows";4;42890;127
+163;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"AMD";" Radeon 520";"windows";8;38788;141
+164;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"SSD";256;0;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;57489;141
+165;"Acer";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 500";"windows";4;18541;100
+166;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;95851;141
+167;"Acer";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 505";"windows";4;19368;100
+168;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;56503;141
+169;"Acer";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"SSD";256;0;"Nvidia";" GeForce MX150";"windows";8;45501;127
+170;"HP";"Notebook";13.3;"small";1920;1080;0;"1.60";4;"HDD";500;0;"Intel";" UHD Graphics 620";"windows";4;40173;166
+171;"Huawei";"Ultrabook";13.0;"small";2160;1440;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;71875;200
+172;"HP";"Notebook";17.3;"large";1920;1080;0;"2.50";6;"HDD";2048;0;"AMD";" Radeon 520";"windows";6;37243;127
+173;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.90";4;"HDD";500;0;"AMD";" Radeon R4 Graphics";"N/A";4;16464;100
+174;"Toshiba";"Notebook";15.6;"medium";1366;768;0;"2.40";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;26054;100
+175;"HP";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;49177;127
+176;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.40";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;24456;100
+177;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;23923;100
+178;"MSI";"Gaming";18.4;"large";1920;1080;0;"2.90";32;"Hybrid";512;1024;"Nvidia";" GTX 980 SLI";"windows";32;149131;120
+179;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"AMD";" R17M-M1-70";"windows";8;43317;141
+180;"HP";"2 in 1 Convertible";13.3;"small";3840;2160;1;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;79867;331
+181;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";16;"Hybrid";256;2048;"AMD";" Radeon 530";"linux";16;55891;141
+182;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;74539;166
+183;"Lenovo";"2 in 1 Convertible";13.9;"small";3840;2160;1;"1.80";16;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";16;98515;317
+184;"Toshiba";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"SSD";128;0;"Intel";" HD Graphics 620";"windows";8;42251;100
+185;"Xiaomi";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Nvidia";" GeForce MX150";"N/A";8;63883;141
+186;"Dell";"Notebook";17.3;"large";1920;1080;1;"1.80";16;"SSD";512;0;"Nvidia";" GeForce 150MX";"windows";16;82531;127
+187;"Dell";"Notebook";15.6;"medium";3840;2160;1;"2.80";16;"SSD";512;0;"Nvidia";" GeForce GTX 1050";"windows";16;127712;282
+188;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"N/A";8;41505;141
+189;"Acer";"Ultrabook";13.3;"small";1920;1080;0;"1.20";8;"SSD";256;0;"Intel";" HD Graphics 615";"windows";8;52694;166
+0;"Dell";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"Hybrid";128;1024;"Intel";" UHD Graphics 620";"windows";8;52161;127
+192;"Vero";"Notebook";14.0;"medium";1920;1080;0;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;13853;157
+193;"Xiaomi";"Ultrabook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce MX150";"N/A";8;53275;166
+194;"Lenovo";"Notebook";17.3;"large";1600;900;0;"1.60";8;"SSD";256;0;"Nvidia";" GeForce MX150";"N/A";8;37189;106
+195;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.80";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;44702;166
+196;"HP";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"HDD";1024;0;"Nvidia";" GeForce 930MX";"windows";8;48698;127
+197;"Razer";"Gaming";17.3;"large";3840;2160;1;"2.90";32;"SSD";1024;0;"Nvidia";" GeForce GTX 1080";"windows";32;324955;255
+198;"HP";"Notebook";13.3;"small";1920;1080;0;"1.60";8;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";8;51096;166
+199;"HP";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050";"windows";16;73473;127
+200;"HP";"Notebook";17.3;"large";1920;1080;0;"1.80";8;"SSD";256;0;"Nvidia";" GeForce 930MX ";"windows";8;55678;127
+201;"Dell";"Gaming";15.6;"medium";3840;2160;0;"2.80";16;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1060";"windows";16;98302;282
+202;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;26267;100
+203;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce 940MX";"windows";8;39534;141
+204;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1060";"windows";16;93187;141
+205;"Dell";"Workstation";15.6;"medium";3840;2160;0;"3.00";16;"Hybrid";256;1024;"Nvidia";" Quadro M1200";"windows";16;162770;282
+206;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"SSD";512;0;"Nvidia";" GeForce GTX 1060";"N/A";16;74485;141
+207;"Dell";"Notebook";15.6;"medium";1366;768;1;"2.40";6;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";6;23390;100
+208;"Dell";"Ultrabook";13.3;"small";3840;2160;1;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;103843;331
+0;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;52161;166
+211;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"linux";8;41505;141
+212;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050";"windows";16;74965;127
+213;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"N/A";4;18595;141
+214;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"N/A";8;29251;141
+215;"Huawei";"Ultrabook";13.0;"small";2160;1440;0;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;79867;200
+216;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.80";8;"SSD";256;0;"AMD";" Radeon 530";"windows";8;49651;166
+217;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce GTX 940MX";"N/A";8;31382;106
+218;"HP";"Notebook";14.0;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;54932;157
+219;"Dell";"Ultrabook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;61219;157
+220;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.80";16;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";16;68145;166
+221;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"AMD";" Radeon 520";"linux";8;36089;141
+222;"Lenovo";"2 in 1 Convertible";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;47899;157
+223;"Toshiba";"Ultrabook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;72621;166
+224;"HP";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;42304;141
+225;"Dell";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;130874;127
+226;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;44329;141
+227;"Dell";"Notebook";15.6;"medium";1920;1080;1;"2.70";16;"HDD";1024;0;"AMD";" Radeon R7 M445";"windows";16;45768;141
+228;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 920MX ";"windows";8;40972;141
+229;"Asus";"Notebook";17.3;"large";1920;1080;0;"2.50";8;"Hybrid";256;500;"Nvidia";" GeForce GTX 950M";"windows";8;47472;127
+230;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"AMD";" FirePro W4190M ";"windows";8;67612;141
+231;"Asus";"Notebook";15.6;"medium";1366;768;0;"2.40";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;21258;100
+232;"HP";"Notebook";15.6;"medium";1366;768;0;"1.50";4;"HDD";500;0;"AMD";" Radeon R2";"windows";4;17582;100
+233;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;79867;141
+234;"Dell";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;45768;157
+235;"Acer";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;36710;166
+236;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";16;"SSD";256;0;"AMD";" Radeon R7 M445";"linux";16;47899;141
+237;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"linux";4;20779;100
+238;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"Hybrid";128;1024;"AMD";" Radeon R5 M430";"windows";4;30636;141
+239;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.90";32;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1080";"windows";32;207259;127
+240;"Acer";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;45075;141
+241;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";8;"SSD";128;0;"Intel";" HD Graphics 520";"windows";8;31382;100
+242;"Asus";"Notebook";17.3;"large";1920;1080;0;"1.80";8;"Hybrid";128;1024;"Nvidia";" GeForce 150MX";"windows";8;61006;127
+243;"Asus";"Notebook";17.3;"large";1920;1080;0;"2.70";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 950M";"N/A";8;47366;127
+244;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;46833;141
+245;"Lenovo";"2 in 1 Convertible";13.9;"small";1920;1080;1;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;57489;158
+246;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"Hybrid";128;2048;"AMD";" Radeon 530";"windows";8;52481;141
+247;"HP";"Notebook";15.6;"medium";1366;768;1;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;29784;100
+248;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.90";16;"SSD";256;0;"Nvidia";" GeForce GTX 1080";"windows";16;159787;127
+249;"HP";"Notebook";13.3;"small";1920;1080;0;"1.60";4;"HDD";500;0;"Intel";" UHD Graphics 620";"windows";4;35964;166
+250;"Apple";"Ultrabook";13.3;"small";2560;1600;0;"3.10";8;"SSD";512;0;"Intel";" Iris Plus Graphics 650";"macos";8;108691;227
+251;"Dell";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"1.80";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;43636;141
+252;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 980M";"windows";16;95851;127
+253;"Asus";"Notebook";15.6;"medium";1366;768;0;"3.00";4;"HDD";1024;0;"AMD";" Radeon R5 M420";"windows";4;24988;100
+254;"Lenovo";"2 in 1 Convertible";13.9;"small";1920;1080;1;"1.80";8;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";8;98515;158
+255;"Acer";"Notebook";17.3;"large";1920;1080;0;"2.70";4;"SSD";256;0;"Nvidia";" GeForce MX130";"windows";4;37403;127
+256;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;50563;166
+257;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"SSD";128;0;"AMD";" Radeon R4 Graphics";"windows";8;23758;100
+258;"HP";"Notebook";17.3;"large";1920;1080;0;"1.80";16;"HDD";1024;0;"Nvidia";" GeForce MX150";"windows";16;56424;127
+259;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1070";"windows";16;133147;127
+260;"Lenovo";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.80";8;"SSD";512;0;"Nvidia";" GeForce GTX 1050M";"windows";8;90523;141
+261;"Dell";"Notebook";17.3;"large";1920;1080;0;"1.80";8;"Hybrid";128;1024;"AMD";" Radeon 530";"windows";8;60846;127
+262;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"SSD";256;0;"Intel";" HD Graphics 520";"N/A";4;23656;141
+263;"HP";"Notebook";15.6;"medium";1920;1080;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;38468;141
+264;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;35005;141
+265;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"AMD";" Radeon R5 M430";"windows";8;30103;141
+266;"Dell";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;42571;141
+0;"Asus";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.60";8;"SSD";512;512;"Intel";" UHD Graphics 620";"windows";8;52161;166
+269;"HP";"Notebook";17.3;"large";1920;1080;0;"1.80";8;"HDD";1024;0;"Nvidia";" GeForce 930MX ";"windows";8;54239;127
+270;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;46886;141
+271;"Apple";"Ultrabook";13.3;"small";2560;1600;0;"2.90";8;"SSD";512;0;"Intel";" Iris Graphics 550";"macos";8;104370;227
+272;"Asus";"Gaming";17.3;"large";1920;1080;0;"3.00";16;"Hybrid";256;1024;"AMD";" Radeon RX 580";"windows";16;82531;127
+273;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"AMD";" Radeon 520";"linux";8;39165;141
+274;"Lenovo";"2 in 1 Convertible";14.0;"medium";2560;1440;1;"2.60";16;"SSD";512;0;"Intel";" HD Graphics 520";"windows";16;133147;210
+275;"Toshiba";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";500;0;"Nvidia";" GeForce 930M";"windows";8;43263;100
+276;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.70";12;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";12;37992;100
+277;"Dell";"Notebook";17.3;"large";1920;1080;0;"1.80";8;"Hybrid";128;1024;"AMD";" Radeon 530";"linux";8;58555;127
+278;"Acer";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"HDD";1024;0;"Nvidia";" GeForce MX130";"windows";8;39694;141
+279;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";4;26054;106
+280;"Lenovo";"Notebook";17.3;"large";1920;1080;0;"1.80";8;"HDD";2048;0;"Nvidia";" GeForce MX150";"N/A";8;45235;127
+281;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.70";6;"Hybrid";128;1024;"Nvidia";" GeForce 940MX";"windows";6;45768;106
+282;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M430";"linux";4;22804;141
+283;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;44169;141
+284;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";6;"SSD";256;0;"Intel";" HD Graphics 620";"windows";6;30849;141
+285;"Acer";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Nvidia";" GeForce MX150";"windows";8;50669;141
+286;"Acer";"Notebook";15.6;"medium";1920;1080;1;"2.70";12;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";12;35112;141
+287;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 630";"windows";8;58448;141
+288;"Asus";"Ultrabook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;52055;141
+289;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;62817;141
+290;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce 940MX";"N/A";8;35112;141
+291;"Acer";"Notebook";15.6;"medium";1366;768;0;"1.50";2;"SSD";16;0;"Intel";" HD Graphics";"others";2;10603;100
+292;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;63243;127
+293;"HP";"Notebook";17.3;"large";1600;900;0;"2.00";8;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";8;26054;106
+294;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;97449;141
+295;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;39374;141
+296;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1060";"windows";8;69211;141
+297;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050 Ti";"linux";8;52161;141
+298;"Dell";"Workstation";17.3;"large";1920;1080;0;"2.90";16;"SSD";256;0;"Nvidia";" Quadro M1200";"windows";16;153705;127
+299;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.40";6;"HDD";1024;0;"AMD";" Radeon R5 430";"windows";6;26587;141
+300;"Asus";"Ultrabook";15.6;"medium";1920;1080;0;"2.70";16;"SSD";512;0;"Nvidia";" GeForce 940MX";"windows";16;78215;141
+301;"Asus";"Notebook";14.0;"medium";1366;768;0;"2.40";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;27120;112
+302;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;113060;127
+303;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.50";6;"HDD";1024;0;"Nvidia";" GeForce GTX 940M";"windows";6;34579;106
+304;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";2048;0;"Nvidia";" GeForce 940MX";"N/A";8;29251;100
+305;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";8;67399;141
+306;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 505";"N/A";4;19180;100
+307;"HP";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.80";16;"SSD";256;0;"Intel";" HD Graphics 620";"windows";16;105228;166
+308;"Toshiba";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 930M";"windows";8;55571;141
+309;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce 940MX";"windows";8;43636;141
+310;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";4;24988;141
+311;"Lenovo";"Notebook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;53227;166
+312;"Dell";"Ultrabook";13.3;"small";3840;2160;1;"1.80";16;"SSD";1024;0;"Intel";" UHD Graphics 620";"windows";16;133147;331
+313;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;111835;141
+314;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.20";8;"SSD";256;0;"AMD";" Radeon R5";"windows";8;24988;141
+315;"Asus";"2 in 1 Convertible";11.6;"small";1366;768;1;"1.10";2;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";2;14652;135
+316;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"Hybrid";128;1024;"AMD";" Radeon 530";"windows";8;44968;141
+317;"HP";"2 in 1 Convertible";13.3;"small";3840;2160;1;"1.80";16;"SSD";1024;0;"Intel";" UHD Graphics 620";"windows";16;130483;331
+318;"Lenovo";"Notebook";13.3;"small";1366;768;0;"1.60";4;"Flash Storage";16;0;"Intel";" HD Graphics 510";"others";4;24503;118
+319;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;52214;157
+320;"Acer";"Notebook";11.6;"small";1366;768;0;"1.60";4;"Flash Storage";128;0;"Intel";" HD Graphics 405";"windows";4;25841;135
+321;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;68838;157
+322;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.50";4;"HDD";1024;0;"Nvidia";" GeForce 920MX";"windows";4;31382;106
+323;"Asus";"Notebook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;58288;157
+324;"HP";"Notebook";15.6;"medium";1366;768;0;"1.80";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;48059;100
+325;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.70";8;"SSD";256;0;"AMD";" Radeon RX 540";"windows";8;35112;100
+326;"Lenovo";"Notebook";14.0;"medium";1366;768;0;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;15558;112
+327;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.50";6;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";6;29251;100
+328;"Asus";"Ultrabook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;55939;141
+329;"HP";"Ultrabook";12.5;"small";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;71129;176
+330;"Dell";"Notebook";15.6;"medium";3840;2160;1;"2.80";32;"SSD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";32;140606;282
+331;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";8;63883;127
+332;"Toshiba";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;50243;141
+333;"Asus";"Notebook";14.0;"medium";1920;1080;0;"2.70";8;"Hybrid";256;1024;"Intel";" HD Graphics 620";"windows";8;71076;157
+334;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";4;23923;141
+335;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;53227;141
+0;"HP";"Notebook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;52161;157
+338;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;60952;141
+339;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 500";"linux";4;14651;100
+340;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;60886;141
+341;"Dell";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics";"linux";4;14647;100
+342;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"3.60";12;"HDD";2048;0;"AMD";" Radeon 530";"windows";12;47899;141
+343;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.40";8;"HDD";1024;0;"Nvidia";" GeForce 930MX ";"windows";8;38148;141
+344;"Lenovo";"2 in 1 Convertible";13.9;"small";3840;2160;1;"1.80";16;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";16;111835;317
+345;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;84129;166
+346;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;2048;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;60153;141
+347;"HP";"Notebook";14.0;"medium";1366;768;0;"1.60";2;"Flash Storage";32;0;"Intel";" HD Graphics 400";"windows";2;14865;112
+348;"Dell";"Ultrabook";15.6;"medium";1920;1080;0;"1.90";16;"SSD";512;256;"Intel";" UHD Graphics 620";"windows";16;85672;141
+349;"Asus";"2 in 1 Convertible";11.6;"small";1366;768;1;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;19980;135
+0;"Dell";"Ultrabook";15.6;"medium";1920;1080;0;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;52161;141
+352;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;69477;141
+353;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";8;75072;127
+354;"HP";"Workstation";15.6;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" Quadro M1200";"windows";8;92615;141
+355;"Toshiba";"Notebook";15.6;"medium";1920;1080;0;"2.50";16;"SSD";512;0;"Nvidia";" GeForce 930M";"windows";16;74752;141
+356;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"Hybrid";128;2048;"AMD";" Radeon 530";"windows";8;51730;141
+357;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 500";"N/A";4;17156;100
+358;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;53227;141
+359;"Dell";"Notebook";15.6;"medium";1366;768;1;"2.50";8;"HDD";2048;0;"Intel";" HD Graphics 620";"windows";8;29697;100
+360;"Dell";"Notebook";14.0;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;76031;157
+361;"HP";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;23390;100
+362;"Asus";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;50350;157
+363;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.50";6;"Hybrid";128;1024;"Nvidia";" GeForce GTX 940MX";"windows";6;38308;106
+364;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;34046;141
+365;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";8;"SSD";256;0;"Nvidia";" GeForce 920MX ";"N/A";8;26587;100
+366;"HP";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"HDD";2048;0;"Intel";" HD Graphics 405";"windows";8;20726;100
+367;"Dell";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"Hybrid";128;1024;"AMD";" Radeon 530";"windows";8;57809;127
+368;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"N/A";8;43104;141
+369;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"AMD";" Radeon R7 M445";"windows";8;47899;141
+370;"HP";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;93240;157
+371;"Asus";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.70";12;"Hybrid";512;2048;"Nvidia";" GeForce GT 940MX";"windows";12;58555;141
+372;"Acer";"Notebook";15.6;"medium";1366;768;0;"3.00";4;"SSD";128;0;"AMD";" Radeon R5";"windows";4;22697;100
+373;"Asus";"Gaming";17.3;"large";1920;1080;0;"3.00";16;"Hybrid";256;1024;"AMD";" Radeon RX 580";"windows";16;117163;127
+374;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.20";4;"SSD";128;0;"AMD";" Radeon R5";"windows";4;26054;106
+375;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;46301;166
+376;"HP";"Notebook";15.6;"medium";1920;1080;0;"3.00";4;"SSD";256;0;"AMD";" Radeon R5";"windows";4;26053;141
+377;"Lenovo";"Netbook";11.6;"small";1366;768;0;"1.10";4;"SSD";128;0;"Intel";" HD Graphics 500";"windows";4;29464;135
+378;"Dell";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics 400";"windows";4;16464;100
+379;"Asus";"Notebook";14.0;"medium";1366;768;0;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;15238;112
+380;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"linux";8;45075;141
+381;"HP";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;63456;127
+382;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"N/A";4;21498;141
+383;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";8;88178;141
+384;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;58555;157
+385;"Asus";"Ultrabook";13.3;"small";1920;1080;1;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;93181;166
+386;"Lenovo";"Ultrabook";14.0;"medium";2560;1440;0;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;121585;210
+387;"Lenovo";"Notebook";13.3;"small";1920;1080;0;"2.40";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;29251;166
+388;"Dell";"Workstation";15.6;"medium";1920;1080;0;"2.60";8;"HDD";500;0;"AMD";" FirePro W5130M";"windows";8;72940;141
+389;"Dell";"Workstation";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" Quadro M1200";"windows";8;113753;141
+390;"Lenovo";"2 in 1 Convertible";14.0;"medium";2560;1440;1;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;133680;210
+391;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;55358;127
+392;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;84768;127
+393;"Acer";"Notebook";15.6;"medium";1366;768;0;"1.60";12;"HDD";1024;0;"Nvidia";" GeForce MX130";"windows";12;36976;100
+394;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050 Ti";"windows";8;71875;127
+395;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"AMD";" Radeon R7 M445";"linux";8;41498;141
+396;"HP";"Ultrabook";15.6;"medium";1920;1080;0;"3.00";4;"SSD";256;0;"AMD";" Radeon 520";"windows";4;26587;141
+397;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"AMD";" Radeon RX 550";"windows";8;65511;141
+398;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;49977;157
+399;"Dell";"Workstation";15.6;"medium";3840;2160;1;"2.80";8;"SSD";256;0;"Nvidia";" Quadro M1200";"windows";8;144495;282
+400;"Lenovo";"Ultrabook";14.0;"medium";2560;1440;0;"2.70";16;"SSD";1024;0;"Intel";" HD Graphics 620";"windows";16;139860;210
+401;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 500";"windows";4;16304;100
+402;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050";"windows";16;81465;127
+403;"Lenovo";"Notebook";25.6;"large";1920;1080;0;"1.60";8;"Hybrid";256;1024;"AMD";" Radeon RX 550";"windows";8;60979;86
+404;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"linux";8;46833;141
+405;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;119827;127
+406;"Asus";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;99793;157
+407;"Toshiba";"Ultrabook";13.3;"small";1920;1080;0;"2.50";16;"SSD";512;0;"Intel";" HD Graphics 520";"windows";16;93080;166
+408;"Dell";"Ultrabook";14.0;"medium";1920;1080;0;"2.80";8;"SSD";512;0;"Intel";" HD Graphics";"windows";8;89510;157
+409;"Lenovo";"Notebook";35.6;"large";1920;1080;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;21792;62
+410;"Lenovo";"Notebook";11.6;"small";1366;768;0;"1.10";2;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";2;16221;135
+411;"Lenovo";"Workstation";15.6;"medium";1920;1080;0;"2.80";8;"SSD";512;0;"Nvidia";" Quadro M1200";"windows";8;102564;141
+412;"Lenovo";"Ultrabook";14.0;"medium";2560;1440;0;"2.80";8;"SSD";512;0;"Nvidia";" GeForce GT 940MX";"windows";8;103523;210
+413;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon 520";"windows";4;24988;141
+414;"Acer";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;42038;166
+415;"Asus";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;49444;166
+416;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"AMD";" Radeon R5 M430";"linux";4;31909;141
+417;"Dell";"Notebook";13.3;"small";1366;768;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;36710;118
+418;"HP";"Ultrabook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;79920;157
+419;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;28769;100
+420;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"AMD";" Radeon RX 550";"windows";8;64755;157
+421;"Lenovo";"2 in 1 Convertible";15.6;"medium";3840;2160;1;"2.80";16;"SSD";512;0;"Nvidia";" GeForce GTX 1050";"windows";16;101179;282
+422;"Chuwi";"Notebook";12.3;"small";2736;1824;0;"1.10";6;"Flash Storage";64;0;"Intel";" HD Graphics 500";"windows";6;23923;267
+423;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.90";8;"SSD";256;0;"Intel";" HD Graphics 630";"windows";8;76031;141
+424;"Asus";"Notebook";35.6;"large";1920;1080;0;"2.40";8;"HDD";1024;0;"Nvidia";" GeForce 940MX";"linux";8;31808;62
+425;"Dell";"Gaming";27.3;"large";2560;1440;0;"2.90";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;149131;108
+426;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";8;61752;141
+427;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"Hybrid";256;2048;"AMD";" Radeon 530";"windows";8;60867;141
+428;"Dell";"Ultrabook";14.0;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Intel";" HD Graphics 620";"linux";8;58555;157
+429;"HP";"Gaming";17.3;"large";1920;1080;0;"2.80";12;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";12;106507;127
+430;"Mediacom";"2 in 1 Convertible";11.6;"small";1920;1080;1;"1.10";4;"SSD";32;0;"Intel";" HD Graphics 500";"windows";4;15931;190
+431;"Samsung";"Netbook";11.6;"small";1366;768;0;"1.60";4;"Flash Storage";16;0;"Intel";" HD Graphics 400";"others";4;14332;135
+432;"Lenovo";"Notebook";13.3;"small";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;53813;166
+433;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.70";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;31915;157
+434;"Lenovo";"Workstation";15.6;"medium";3840;2160;0;"2.80";16;"SSD";512;0;"Nvidia";" GeForce 940MX";"windows";16;130270;282
+435;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.90";16;"SSD";512;0;"Nvidia";" Quadro M2200M";"windows";16;130483;141
+436;"Asus";"Gaming";17.3;"large";1920;1080;0;"3.20";8;"Hybrid";256;1024;"AMD";" Radeon RX 580";"windows";8;90310;127
+437;"HP";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics 400";"windows";4;18488;100
+438;"Google";"Ultrabook";12.3;"small";2400;1600;1;"1.30";16;"SSD";512;0;"Intel";" HD Graphics 615";"others";16;117163;235
+439;"Lenovo";"Ultrabook";24.0;"large";2560;1440;0;"2.70";24;"SSD";512;0;"Intel";" HD Graphics 620";"windows";24;126913;122
+440;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"linux";4;29784;141
+441;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.50";8;"HDD";1024;0;"AMD";" Radeon R4";"windows";8;27652;106
+442;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";4;"SSD";256;0;"AMD";" Radeon 530";"windows";4;39907;141
+443;"Lenovo";"Ultrabook";12.5;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;76137;176
+444;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"1.10";4;"SSD";128;0;"Intel";" HD Graphics 505";"windows";4;18595;141
+445;"HP";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;58555;141
+446;"Dell";"Notebook";14.0;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;62817;157
+447;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"linux";4;23539;100
+448;"Dell";"Workstation";15.6;"medium";1920;1080;0;"3.00";8;"HDD";64;1024;"Nvidia";" Quadro M620";"windows";8;106187;141
+449;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;54758;141
+450;"Microsoft";"Ultrabook";13.5;"small";2256;1504;1;"2.50";16;"SSD";512;0;"Intel";" Iris Plus Graphics 640";"windows";16;137942;201
+451;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"SSD";128;0;"Intel";" HD Graphics 620";"windows";8;31382;100
+452;"Dell";"Workstation";15.6;"medium";1920;1080;0;"2.70";16;"SSD";256;0;"Nvidia";" Quadro M620";"windows";16;105228;141
+453;"HP";"Workstation";15.6;"medium";1920;1080;0;"2.90";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;81732;141
+454;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;71662;157
+455;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"Hybrid";128;1024;"AMD";" Radeon 530";"windows";8;52161;141
+456;"Dell";"2 in 1 Convertible";11.6;"small";1366;768;1;"1.60";4;"HDD";500;0;"Intel";" HD Graphics 405";"windows";4;25521;135
+457;"Dell";"Notebook";17.3;"large";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1060";"windows";8;109011;127
+458;"Microsoft";"Ultrabook";13.5;"small";2256;1504;1;"2.20";4;"SSD";128;0;"Intel";" HD Graphics 615";"windows";4;52694;201
+459;"Microsoft";"Ultrabook";33.5;"large";2256;1504;1;"2.50";8;"SSD";256;0;"Intel";" Iris Plus Graphics 640";"windows";8;95851;81
+460;"HP";"Notebook";17.3;"large";1600;900;0;"2.00";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;34094;106
+461;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"Nvidia";" GeForce 940MX";"windows";4;28984;141
+462;"Acer";"Netbook";11.6;"small";1366;768;0;"1.60";4;"SSD";128;0;"Intel";" HD Graphics 400";"windows";4;23177;135
+463;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;39907;141
+464;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";512;0;"AMD";" Radeon R7 M460";"N/A";8;42571;157
+465;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.90";8;"SSD";256;0;"Nvidia";" Quadro M2200M";"windows";8;111355;141
+466;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";500;0;"Intel";" HD Graphics 500";"windows";4;16197;100
+467;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Nvidia";" GeForce GTX 940MX";"windows";4;24988;100
+468;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"HDD";2048;0;"AMD";" Radeon 530";"windows";8;40440;141
+469;"HP";"Gaming";17.3;"large";1920;1080;0;"2.80";12;"HDD";1024;0;"Nvidia";" GeForce GTX 1060";"windows";12;90523;127
+470;"Lenovo";"Ultrabook";14.0;"medium";2560;1440;0;"2.60";12;"SSD";256;0;"Intel";" HD Graphics 520";"windows";12;98994;210
+471;"HP";"2 in 1 Convertible";13.3;"small";3840;2160;1;"1.80";8;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";8;106507;331
+472;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";500;0;"AMD";" FirePro W4190M ";"windows";8;61485;141
+473;"Google";"Ultrabook";12.3;"small";2400;1600;1;"1.20";8;"SSD";128;0;"Intel";" HD Graphics 615";"others";8;67932;235
+474;"Dell";"Ultrabook";13.3;"small";1920;1080;1;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;98134;166
+475;"Asus";"Notebook";15.6;"medium";3840;2160;0;"2.60";12;"Hybrid";128;1024;"Intel";" HD Graphics 530";"windows";12;69211;282
+476;"Dell";"Notebook";14.0;"medium";1366;768;0;"2.30";8;"SSD";128;0;"Intel";" HD Graphics 520";"windows";8;39427;112
+0;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";180;0;"Intel";" UHD Graphics 620";"windows";8;52161;157
+480;"Toshiba";"Notebook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;89084;166
+481;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";512;0;"Nvidia";" GeForce 940MX";"windows";8;67239;141
+482;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.40";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;31254;100
+483;"HP";"Notebook";13.3;"small";1920;1080;0;"1.60";4;"SSD";128;0;"Intel";" UHD Graphics 620";"windows";4;38681;166
+484;"Chuwi";"Notebook";15.6;"medium";1920;1080;0;"1.44";4;"Flash Storage";64;0;"Intel";" HD Graphics";"windows";4;13261;141
+485;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;30103;100
+486;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;55891;157
+487;"Dell";"Workstation";15.6;"medium";1920;1080;0;"2.70";16;"SSD";512;0;"Nvidia";" Quadro M620";"windows";16;124569;141
+488;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.80";16;"SSD";512;0;"Nvidia";" GeForce GTX 1050";"windows";16;101179;141
+489;"Lenovo";"Ultrabook";12.5;"small";1920;1080;0;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;95797;176
+490;"Asus";"Ultrabook";12.5;"small";1920;1080;0;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;103896;176
+491;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;53919;141
+492;"Toshiba";"Ultrabook";13.3;"small";1920;1080;1;"2.70";32;"SSD";512;0;"Intel";" HD Graphics 620";"windows";32;149131;166
+493;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;71928;141
+494;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";1024;0;"AMD";" Radeon RX 540";"windows";8;30849;100
+495;"Asus";"Gaming";17.3;"large";1920;1080;1;"2.60";24;"Hybrid";256;1024;"Nvidia";" GeForce GTX 965M";"windows";24;67612;127
+496;"Lenovo";"Ultrabook";12.5;"small";1366;768;0;"2.30";8;"SSD";180;0;"Intel";" HD Graphics 520";"windows";8;58555;125
+497;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;47893;141
+498;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.80";8;"SSD";1024;0;"Intel";" HD Graphics 620";"windows";8;93187;157
+499;"Lenovo";"Notebook";13.3;"small";1920;1080;0;"2.40";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;50563;166
+500;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;48538;141
+501;"Asus";"Netbook";11.6;"small";1366;768;0;"1.10";4;"Flash Storage";64;0;"Intel";" HD Graphics 500";"windows";4;18115;135
+502;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"SSD";256;0;"AMD";" Radeon 520";"windows";8;32980;100
+503;"Lenovo";"2 in 1 Convertible";13.9;"small";1920;1080;1;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;85195;158
+504;"Lenovo";"Notebook";14.0;"medium";1366;768;0;"1.10";4;"HDD";500;0;"Intel";" HD Graphics 500";"windows";4;15931;112
+505;"Lenovo";"Netbook";11.6;"small";1366;768;0;"1.60";4;"SSD";16;0;"Intel";" HD Graphics 400";"others";4;14119;135
+506;"Lenovo";"Notebook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;50563;166
+507;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"Hybrid";256;1024;"Intel";" HD Graphics 620";"windows";8;65215;141
+508;"Acer";"Notebook";15.6;"medium";1920;1080;0;"1.60";4;"HDD";1024;0;"Nvidia";" GeForce MX150";"windows";4;32661;141
+509;"HP";"Ultrabook";13.3;"small";1920;1080;0;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;70489;166
+510;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"N/A";8;61219;141
+511;"Dell";"Ultrabook";13.3;"small";1920;1080;1;"2.50";8;"SSD";128;0;"Intel";" HD Graphics 620";"windows";8;47899;166
+512;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.70";4;"HDD";500;0;"Nvidia";" GeForce 940MX";"windows";4;34046;141
+513;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;44542;141
+514;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";16;"Hybrid";256;2048;"AMD";" Radeon 530";"windows";16;64961;141
+515;"Xiaomi";"Notebook";15.6;"medium";1920;1080;0;"1.80";16;"SSD";256;0;"Nvidia";" GeForce MX150";"N/A";16;74589;141
+516;"Asus";"Netbook";11.6;"small";1366;768;0;"1.10";2;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";2;13054;135
+517;"HP";"Notebook";15.6;"medium";1366;768;1;"1.60";4;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";4;27784;100
+518;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";24;"SSD";512;0;"Nvidia";" GeForce GTX1080";"windows";24;158135;141
+519;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;47366;141
+520;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX1050 Ti";"windows";16;80133;127
+521;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";8;74539;141
+522;"HP";"Ultrabook";13.3;"small";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;74539;166
+523;"Dell";"Notebook";14.0;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;68184;157
+524;"HP";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;36710;100
+525;"Dell";"Notebook";17.3;"large";1920;1080;0;"1.60";8;"Hybrid";128;1024;"AMD";" Radeon 530";"linux";8;47366;127
+526;"Lenovo";"Notebook";24.0;"large";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;71395;92
+527;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.70";4;"HDD";1024;0;"Nvidia";" GeForce 920MX";"windows";4;42571;141
+528;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";8;"HDD";2048;0;"Nvidia";" GeForce 920MX ";"N/A";8;24456;100
+529;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";500;0;"AMD";" Radeon R5 M430";"windows";4;31169;141
+530;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;73367;141
+531;"Dell";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1070";"windows";16;160520;127
+532;"Toshiba";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";500;0;"Intel";" HD Graphics 620";"windows";8;45821;141
+533;"Asus";"Notebook";15.6;"medium";3840;2160;0;"2.70";8;"Hybrid";256;1024;"Nvidia";" GeForce GTX 960M";"windows";8;69211;282
+534;"Mediacom";"Notebook";13.3;"small";1920;1080;0;"1.10";4;"SSD";32;0;"Intel";" HD Graphics 500";"windows";4;19660;166
+535;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";8;87859;141
+536;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;72940;141
+537;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"AMD";" Radeon 530";"windows";8;42486;141
+538;"HP";"Notebook";15.6;"medium";1920;1080;0;"1.60";4;"SSD";256;0;"Intel";" HD Graphics 405";"windows";4;21258;141
+539;"HP";"Gaming";17.3;"large";1920;1080;0;"2.80";12;"HDD";1024;0;"Nvidia";" GeForce GTX 1060";"windows";12;95851;127
+540;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;45768;157
+541;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"1.80";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;74539;276
+542;"Dell";"Notebook";14.0;"medium";1920;1080;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;39207;157
+543;"HP";"Ultrabook";13.3;"small";3200;1800;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;61006;276
+544;"Acer";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"linux";8;42517;141
+545;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.80";4;"HDD";500;0;"AMD";" Radeon R2 Graphics";"windows";4;18595;100
+546;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.40";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;37589;141
+547;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;41825;157
+548;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.30";4;"HDD";1024;0;"Intel";" HD Graphics 520";"N/A";4;24634;141
+549;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;21152;141
+550;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;92121;141
+551;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;26587;141
+552;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;59513;141
+553;"Dell";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;143803;127
+554;"HP";"Notebook";17.3;"large";1600;900;0;"2.00";8;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";8;28992;106
+555;"HP";"Notebook";17.3;"large";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce 930MX";"windows";8;68198;127
+556;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";500;0;"Intel";" HD Graphics 500";"linux";4;11935;100
+557;"Mediacom";"Notebook";13.3;"small";1920;1080;0;"1.44";4;"Flash Storage";32;0;"Intel";" HD Graphics";"windows";4;13586;166
+558;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.70";6;"Hybrid";128;1024;"Nvidia";" GeForce 940MX";"windows";6;50563;106
+559;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";6;"SSD";128;0;"AMD";" Radeon 530";"windows";6;30311;141
+560;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M420";"windows";4;32922;100
+561;"Acer";"2 in 1 Convertible";11.6;"small";1920;1080;1;"2.00";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;18595;190
+562;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.70";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;33566;141
+563;"HP";"Ultrabook";13.3;"small";3200;1800;1;"1.20";16;"SSD";512;0;"Intel";" HD Graphics 515";"windows";16;104695;276
+564;"Lenovo";"Notebook";17.3;"large";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" Quadro M620M";"windows";8;159787;127
+565;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;44702;141
+566;"Dell";"Ultrabook";13.3;"small";3840;2160;1;"1.60";8;"SSD";128;0;"Intel";" UHD Graphics 620";"windows";8;85195;331
+0;"Dell";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"HDD";500;0;"Intel";" UHD Graphics 620";"windows";8;52161;100
+569;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"1.10";4;"HDD";500;0;"Intel";" HD Graphics 505";"windows";4;18328;141
+570;"Lenovo";"Notebook";14.0;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;52747;112
+571;"HP";"Workstation";17.3;"large";1600;900;0;"2.80";8;"HDD";500;0;"Nvidia";" Quadro M1200";"windows";8;99154;106
+572;"HP";"Notebook";14.0;"medium";1366;768;0;"1.60";8;"HDD";2048;0;"Intel";" HD Graphics 405";"windows";8;20726;112
+573;"HP";"Notebook";15.6;"medium";1920;1080;0;"3.00";6;"SSD";256;0;"AMD";" Radeon 530";"windows";6;34579;141
+574;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;44222;141
+575;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;36497;141
+576;"Mediacom";"Notebook";14.0;"medium";1920;1080;0;"1.44";4;"SSD";32;0;"Intel";" HD Graphics";"windows";4;13267;157
+577;"Toshiba";"Ultrabook";14.0;"medium";1920;1080;1;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;99367;157
+578;"Lenovo";"Gaming";17.3;"large";1920;1080;0;"2.70";32;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";32;141885;127
+579;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.90";16;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1070";"windows";16;145401;127
+580;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"AMD";" Radeon R5 M430";"linux";8;39907;141
+581;"Mediacom";"Notebook";14.0;"medium";1920;1080;0;"1.10";4;"SSD";32;0;"Intel";" HD Graphics 500";"windows";4;20726;157
+582;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.60";8;"HDD";500;0;"Intel";" HD Graphics 620";"windows";8;53734;100
+583;"HP";"Notebook";13.3;"small";1920;1080;0;"2.40";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;38308;166
+584;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.80";16;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";16;81912;141
+585;"Dell";"Netbook";11.6;"small";1366;768;0;"1.60";4;"Flash Storage";16;0;"Intel";" HD Graphics 400";"others";4;15718;135
+586;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.70";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 980M";"windows";16;125155;127
+587;"HP";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050";"windows";16;79813;127
+588;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.60";12;"SSD";256;0;"Intel";" HD Graphics 520";"windows";12;89137;157
+589;"Lenovo";"Notebook";15.6;"medium";1366;768;1;"1.80";12;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";12;32448;100
+590;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";8;94306;127
+591;"Asus";"2 in 1 Convertible";15.6;"medium";1366;768;1;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";8;39374;100
+592;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"3.60";12;"SSD";512;0;"AMD";" Radeon 530";"windows";12;50563;141
+593;"Dell";"2 in 1 Convertible";31.6;"large";1366;768;1;"1.00";4;"SSD";128;0;"Intel";" HD Graphics 615";"windows";4;32128;50
+594;"Samsung";"Notebook";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";16;90523;141
+595;"Lenovo";"Notebook";17.3;"large";1920;1080;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"N/A";4;28185;127
+596;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.30";8;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";8;24456;100
+597;"Lenovo";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;107892;166
+598;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 630";"windows";8;78535;157
+599;"Dell";"2 in 1 Convertible";12.5;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;88978;176
+600;"Dell";"Workstation";15.6;"medium";1920;1080;1;"2.80";8;"SSD";256;0;"Nvidia";" Quadro M620";"windows";8;93933;141
+601;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;64948;141
+602;"HP";"Notebook";15.6;"medium";1366;768;0;"2.40";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;35617;100
+603;"Acer";"Notebook";14.0;"medium";1920;1080;0;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;17529;157
+604;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.70";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 970M";"windows";16;117163;127
+605;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M420";"linux";4;24775;100
+606;"MSI";"Gaming";15.6;"medium";3840;2160;0;"2.80";16;"Hybrid";256;2048;"Nvidia";" GeForce GTX 1060";"windows";16;122491;282
+607;"Toshiba";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;74539;141
+608;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";6;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";6;30050;141
+609;"Lenovo";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.80";8;"SSD";256;0;"Intel";" HD Graphics 630";"windows";8;69211;141
+610;"Acer";"Notebook";14.0;"medium";1366;768;0;"1.60";4;"Flash Storage";128;0;"Intel";" HD Graphics 405";"windows";4;18595;112
+611;"Lenovo";"Notebook";15.6;"medium";3840;2160;0;"3.10";32;"SSD";1024;0;"Nvidia";" Quadro M2200M";"windows";32;261019;282
+612;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.60";16;"HDD";1024;0;"Nvidia";" GeForce GTX 960<U+039C>";"windows";16;46834;141
+613;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"linux";4;23651;100
+614;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"linux";4;19128;100
+615;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.60";4;"HDD";500;0;"Intel";" HD Graphics 620";"linux";4;46300;100
+0;"Asus";"Gaming";17.3;"large";1920;1080;0;"1.60";8;"Hybrid";128;1024;"Intel";" UHD Graphics 620";"windows";8;52161;127
+618;"HP";"Ultrabook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;74006;141
+619;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;120832;141
+620;"Acer";"2 in 1 Convertible";11.6;"small";1366;768;1;"1.60";4;"Flash Storage";32;0;"Intel";" HD Graphics 400";"others";4;20193;135
+621;"HP";"Notebook";14.0;"medium";1366;768;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;59887;112
+622;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;78055;157
+623;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.60";4;"HDD";1024;0;"AMD";" Radeon 530";"windows";4;41345;141
+624;"Fujitsu";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;42571;100
+0;"HP";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"HDD";500;0;"Intel";" UHD Graphics 620";"windows";8;52161;100
+627;"Mediacom";"Notebook";14.0;"medium";1920;1080;0;"1.44";2;"Flash Storage";32;0;"Intel";" HD Graphics";"windows";2;12734;157
+628;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"SSD";128;0;"Intel";" HD Graphics 620";"N/A";4;24935;141
+0;"Asus";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;52161;166
+631;"Asus";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;101232;157
+632;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;78801;141
+633;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"1.60";4;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";4;44169;141
+634;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"Nvidia";" GeForce 920MX ";"windows";4;30849;141
+635;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.10";8;"HDD";1024;0;"Intel";" HD Graphics 500";"windows";8;21259;100
+636;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;48305;141
+637;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;99580;276
+638;"Lenovo";"Notebook";14.0;"medium";1366;768;0;"1.60";2;"Flash Storage";32;0;"Intel";" HD Graphics 400";"windows";2;13267;112
+639;"Lenovo";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;93635;166
+640;"Dell";"Notebook";15.6;"medium";3840;2160;1;"2.80";16;"SSD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";16;127819;282
+641;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050M";"windows";8;59088;141
+642;"HP";"Notebook";17.0;"large";1600;900;0;"3.00";8;"HDD";1024;0;"AMD";" Radeon R5";"windows";8;27754;108
+643;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;130536;157
+644;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050 Ti";"N/A";8;62284;141
+645;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;23976;100
+646;"Lenovo";"Notebook";14.0;"medium";1366;768;0;"1.60";4;"Flash Storage";32;0;"Intel";" HD Graphics";"windows";4;14599;112
+647;"Acer";"Ultrabook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" Graphics 620";"windows";8;48964;157
+648;"Razer";"Gaming";14.0;"medium";1920;1080;0;"2.80";16;"SSD";256;0;"Nvidia";" GeForce GTX 1060";"windows";16;138475;157
+649;"Toshiba";"Notebook";13.3;"small";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;64629;166
+650;"Lenovo";"Ultrabook";12.5;"small";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;84396;176
+651;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.70";32;"SSD";512;0;"Nvidia";" GeForce GTX 1080";"windows";32;149131;127
+652;"Acer";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"linux";8;37776;141
+653;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;77251;166
+654;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";8;63499;141
+655;"HP";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"N/A";4;19442;100
+656;"Toshiba";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";500;0;"Intel";" HD Graphics 620";"windows";8;56690;141
+657;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";256;0;"AMD";" Radeon 530";"windows";8;48964;141
+658;"Dell";"Notebook";15.6;"medium";1920;1080;0;"1.80";16;"Hybrid";256;2048;"AMD";" Radeon 530";"windows";16;60473;141
+659;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.60";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960";"windows";8;63723;141
+660;"Dell";"Gaming";17.3;"large";3840;2160;0;"2.80";32;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1070";"windows";32;167692;255
+661;"Dell";"Notebook";14.0;"medium";1920;1080;0;"2.40";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;65481;157
+662;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";500;0;"Intel";" HD Graphics 500";"windows";4;22324;100
+663;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;28505;141
+664;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.00";6;"HDD";1024;0;"AMD";" Radeon R5 M430";"windows";6;28718;141
+665;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";8;79215;127
+0;"Toshiba";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"SSD";128;0;"Intel";" UHD Graphics 620";"windows";8;52161;100
+668;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"AMD";" Radeon 530";"windows";8;39694;141
+669;"Toshiba";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;67026;141
+670;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"linux";4;21951;100
+671;"Microsoft";"Ultrabook";13.5;"small";2256;1504;1;"2.80";8;"SSD";256;0;"Intel";" Iris Plus Graphics 640";"windows";8;99519;201
+672;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"AMD";" Radeon R5 M430";"windows";8;43580;141
+673;"Lenovo";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;55092;166
+674;"Lenovo";"Notebook";35.6;"large";1366;768;0;"2.20";4;"SSD";128;0;"AMD";" Radeon R2 Graphics";"windows";4;18595;44
+675;"HP";"2 in 1 Convertible";14.0;"medium";1920;1080;1;"2.40";4;"SSD";128;0;"Nvidia";" GeForce 940MX";"windows";4;37243;157
+676;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050";"windows";16;68944;141
+677;"Asus";"Ultrabook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;60473;157
+678;"HP";"2 in 1 Convertible";11.6;"small";1366;768;1;"1.10";8;"Flash Storage";64;0;"Intel";" HD Graphics 500";"others";8;26374;135
+679;"LG";"Ultrabook";15.6;"medium";1920;1080;0;"1.80";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;122491;141
+680;"Acer";"Gaming";15.6;"medium";1920;1080;0;"2.50";16;"SSD";256;0;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;69211;141
+681;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;53168;141
+682;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"SSD";128;0;"Intel";" HD Graphics 500";"windows";4;22324;100
+683;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.50";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";16;109277;141
+684;"HP";"Notebook";17.3;"large";1920;1080;0;"2.00";4;"SSD";256;0;"AMD";" Radeon R5 520";"windows";4;37243;127
+685;"Lenovo";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.80";8;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";8;79867;166
+686;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.90";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;149917;141
+687;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"AMD";" Radeon 520";"windows";4;32640;100
+688;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M430";"windows";4;29073;100
+689;"HP";"Notebook";17.3;"large";1920;1080;0;"2.40";6;"HDD";2048;0;"AMD";" Radeon R7 M440";"windows";6;30316;127
+690;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics 510";"windows";4;16943;100
+691;"Acer";"Notebook";14.0;"medium";1366;768;0;"1.60";4;"Flash Storage";32;0;"Intel";" HD Graphics 510";"others";4;19980;112
+692;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;58694;157
+693;"HP";"Workstation";17.3;"large";1920;1080;0;"2.80";8;"HDD";500;0;"Nvidia";" Quadro M1200";"windows";8;101658;127
+694;"Lenovo";"2 in 1 Convertible";14.0;"medium";2560;1440;1;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;137995;210
+695;"Toshiba";"Notebook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;51841;166
+696;"Acer";"Netbook";11.6;"small";1366;768;0;"1.60";4;"Flash Storage";32;0;"Intel";" HD Graphics";"windows";4;14332;135
+697;"Lenovo";"2 in 1 Convertible";14.0;"medium";1920;1080;1;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;93187;157
+698;"Asus";"2 in 1 Convertible";12.5;"small";1920;1080;1;"0.90";4;"Flash Storage";64;0;"Intel";" HD Graphics 515";"others";4;35644;176
+0;"Toshiba";"Ultrabook";13.3;"small";1920;1080;1;"1.60";8;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";8;52161;166
+701;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;43636;141
+702;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.90";4;"SSD";256;0;"AMD";" Radeon 530";"windows";4;21259;141
+703;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"3.60";8;"HDD";1024;0;"AMD";" Radeon R7";"windows";8;22857;100
+704;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";1024;1024;"Intel";" HD Graphics 620";"windows";4;33111;141
+705;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"N/A";4;23976;100
+706;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;42358;141
+707;"Acer";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.60";1;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";1;53227;166
+708;"Lenovo";"Workstation";15.6;"medium";1920;1080;0;"2.50";16;"SSD";512;0;"Nvidia";" Quadro M520M";"windows";16;98834;141
+709;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;63456;157
+710;"HP";"Notebook";17.3;"large";1920;1080;0;"2.50";6;"HDD";2048;0;"AMD";" Radeon 530";"windows";6;34899;127
+711;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";8;66547;141
+712;"Dell";"Notebook";14.0;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"linux";8;58022;157
+713;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 620";"linux";8;38681;141
+714;"Asus";"Notebook";14.0;"medium";1920;1080;0;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;15877;157
+715;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.60";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;76012;141
+716;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 920MX";"windows";8;45665;157
+717;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;62817;141
+718;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"AMD";" Radeon R4";"windows";4;15877;100
+719;"Mediacom";"Notebook";14.0;"medium";1920;1200;0;"1.92";4;"HDD";32;0;"Intel";" HD Graphics 400";"windows";4;14119;162
+720;"HP";"Notebook";17.3;"large";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;63936;127
+721;"Lenovo";"Ultrabook";14.0;"medium";2560;1440;0;"2.50";64;"SSD";512;0;"Intel";" HD Graphics 520";"windows";64;89864;210
+722;"HP";"2 in 1 Convertible";13.3;"small";1366;768;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;44574;118
+723;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;79867;157
+724;"Dell";"Gaming";17.3;"large";3840;2160;0;"2.80";32;"Hybrid";1024;1024;"Nvidia";" GeForce GTX 1070";"windows";32;194973;255
+725;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";8;71847;127
+0;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"N/A";8;52161;100
+728;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.40";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;34579;166
+729;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";1024;0;"AMD";" Radeon R7 M445";"linux";8;31410;100
+730;"HP";"Notebook";15.6;"medium";1920;1080;0;"3.00";4;"HDD";1024;0;"AMD";" Radeon 520";"windows";4;26054;141
+731;"Acer";"Gaming";17.3;"large";1920;1080;0;"2.60";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";16;103097;127
+732;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";12;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";12;34579;100
+733;"HP";"Notebook";15.6;"medium";1920;1080;0;"3.00";6;"Hybrid";128;1024;"AMD";" Radeon 520";"windows";6;34632;141
+734;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;29784;100
+735;"Lenovo";"Notebook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;51149;166
+736;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.70";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;41505;141
+737;"HP";"Workstation";15.6;"medium";1920;1080;0;"2.80";16;"SSD";256;0;"Nvidia";" Quadro M2200";"windows";16;128884;141
+738;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;35112;166
+739;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;111594;141
+740;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;21887;100
+741;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"Hybrid";128;1024;"Nvidia";" GeForce 940MX";"windows";8;64309;141
+742;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;35431;100
+743;"Toshiba";"Notebook";14.0;"medium";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;81785;157
+744;"Lenovo";"2 in 1 Convertible";14.0;"medium";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;53227;157
+745;"Lenovo";"Workstation";15.6;"medium";3840;2160;0;"2.80";16;"SSD";1024;0;"Nvidia";" Quadro M520M";"windows";16;175771;282
+746;"Acer";"Notebook";14.0;"medium";1366;768;0;"1.60";2;"Flash Storage";32;0;"Intel";" HD Graphics 400";"others";2;17582;112
+0;"Samsung";"Ultrabook";13.3;"small";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;52161;166
+749;"Dell";"Notebook";14.0;"medium";1366;768;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;60031;112
+750;"HP";"Workstation";17.3;"large";1920;1080;0;"2.90";16;"SSD";256;0;"Nvidia";" Quadro M2000M";"windows";16;233846;127
+751;"Lenovo";"Netbook";11.6;"small";1366;768;1;"1.60";4;"SSD";128;0;"Intel";" HD Graphics 400";"windows";4;25308;135
+752;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.40";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;101232;141
+0;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"N/A";8;52161;100
+755;"Asus";"Notebook";15.6;"medium";1366;768;0;"2.70";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;45283;100
+756;"Lenovo";"2 in 1 Convertible";13.3;"small";3200;1800;1;"1.80";8;"SSD";256;0;"Intel";" HD Graphics 540";"windows";8;63883;276
+757;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;58555;141
+758;"HP";"Workstation";15.6;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Nvidia";" Quadro M1000M";"windows";8;83170;141
+759;"Dell";"Gaming";15.6;"medium";3840;2160;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;152860;282
+760;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;31915;100
+761;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;55837;141
+762;"Dell";"Ultrabook";12.5;"small";1920;1080;0;"2.80";16;"SSD";256;0;"Intel";" HD Graphics 620";"windows";16;99048;176
+763;"Google";"Ultrabook";12.3;"small";2400;1600;1;"1.20";8;"SSD";256;0;"Intel";" HD Graphics 615";"others";8;83064;235
+764;"Asus";"Ultrabook";13.3;"small";3200;1800;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;60153;276
+765;"Dell";"Notebook";13.3;"small";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;45235;118
+766;"Acer";"Notebook";13.3;"small";1366;768;0;"2.30";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;34898;118
+767;"Asus";"Notebook";17.3;"large";1366;768;0;"1.10";4;"HDD";1024;0;"Nvidia";" GeForce 920MX";"windows";4;25060;91
+768;"Dell";"Gaming";15.6;"medium";3840;2160;1;"2.60";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960M";"windows";16;58555;282
+769;"Samsung";"Ultrabook";13.3;"small";1920;1080;1;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;85195;166
+770;"Acer";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 505";"linux";4;15877;100
+771;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";16;"";0;0;"AMD";" Radeon R7 M445";"windows";16;62938;141
+772;"Samsung";"2 in 1 Convertible";15.0;"medium";1920;1080;1;"2.70";16;"SSD";256;0;"AMD";" Radeon 540";"windows";16;95851;147
+773;"Toshiba";"Notebook";14.0;"medium";1366;768;0;"2.30";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;54346;112
+0;"Dell";"Gaming";15.6;"medium";1920;1080;0;"1.60";8;"HDD";1024;0;"Intel";" UHD Graphics 620";"windows";8;52161;141
+776;"Asus";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.70";12;"HDD";2048;0;"Nvidia";" GeForce 940MX";"windows";12;44702;141
+777;"Lenovo";"Notebook";15.6;"medium";3840;2160;0;"2.70";16;"SSD";512;0;"Nvidia";" Quadro M2000M";"windows";16;126274;282
+778;"Acer";"Notebook";14.0;"medium";1920;1080;0;"2.40";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;33886;157
+779;"Razer";"Gaming";14.0;"medium";1920;1080;0;"2.80";16;"SSD";512;0;"Nvidia";" GeForce GTX 1060";"windows";16;154459;157
+780;"Asus";"Notebook";15.6;"medium";1920;1080;0;"1.10";8;"SSD";128;0;"Intel";" HD Graphics 505";"windows";8;31004;141
+781;"Dell";"Gaming";17.3;"large";1920;1080;0;"2.80";32;"Hybrid";1024;1024;"Nvidia";" GeForce GTX 1070M";"windows";32;191211;127
+782;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.60";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;125208;127
+783;"Toshiba";"Ultrabook";14.0;"medium";1920;1080;0;"2.60";16;"SSD";512;0;"Nvidia";" GeForce 930M";"windows";16;93986;157
+784;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"HDD";1024;0;"Intel";" HD Graphics 405";"N/A";8;17529;100
+785;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;122491;157
+786;"MSI";"Gaming";14.0;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;100752;157
+787;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;58022;141
+788;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";4;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";4;53227;141
+789;"Acer";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;122491;127
+790;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;52481;141
+791;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX1060";"windows";8;71342;141
+792;"Vero";"Notebook";14.0;"medium";1920;1080;0;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;10811;157
+793;"Lenovo";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;104962;166
+794;"Lenovo";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.50";8;"SSD";256;0;"AMD";" Radeon R7 M460";"windows";8;51096;141
+795;"Apple";"Ultrabook";12.0;"small";2304;1440;0;"1.20";8;"Flash Storage";512;0;"Intel";" HD Graphics 5300";"macos";8;62071;226
+796;"Lenovo";"2 in 1 Convertible";14.0;"medium";2560;1440;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;124142;210
+797;"Asus";"Notebook";14.0;"medium";1366;768;0;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;15931;112
+798;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"SSD";128;0;"Intel";" HD Graphics 620";"windows";8;43157;100
+799;"Lenovo";"2 in 1 Convertible";13.9;"small";1920;1080;1;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;71875;158
+800;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.00";8;"SSD";256;0;"AMD";" Radeon R5 M420X";"windows";8;39374;141
+801;"HP";"Workstation";15.6;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" Quadro M2200";"windows";8;110018;141
+802;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;58555;141
+803;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;79867;166
+804;"Dell";"Notebook";15.6;"medium";3840;2160;1;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;93187;282
+805;"Dell";"Netbook";11.6;"small";1366;768;0;"1.10";4;"SSD";128;0;"Intel";" HD Graphics 505";"windows";4;39640;135
+806;"HP";"Netbook";12.5;"small";1366;768;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;74006;125
+807;"Toshiba";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;41558;100
+808;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";2048;0;"AMD";" Radeon R7 Graphics";"windows";8;33513;100
+809;"Dell";"Gaming";15.6;"medium";3840;2160;0;"2.80";16;"SSD";512;0;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;89457;282
+810;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";1024;0;"Nvidia";" GeForce 920M";"windows";4;32448;141
+811;"HP";"Gaming";17.3;"large";1920;1080;0;"2.80";12;"HDD";1024;0;"AMD";" Radeon RX 580";"windows";12;93187;127
+812;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1070";"windows";16;128671;127
+813;"Samsung";"Ultrabook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;79867;166
+814;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce GT 940MX";"windows";8;51202;141
+815;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"AMD";" Radeon R5 M420";"windows";8;42081;141
+816;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;99048;157
+817;"Razer";"Ultrabook";12.5;"small";3840;2160;1;"2.50";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;95851;352
+818;"HP";"Netbook";11.6;"small";1366;768;0;"1.60";4;"Flash Storage";16;0;"Intel";" HD Graphics 400";"others";4;20513;135
+819;"Dell";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";16;133467;127
+820;"Dell";"Notebook";14.0;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;40226;112
+821;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;58694;100
+822;"Toshiba";"Ultrabook";14.0;"medium";1366;768;0;"2.50";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;58075;112
+823;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;133147;157
+824;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce GTX 1050";"windows";8;63883;141
+825;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.50";8;"Flash Storage";256;0;"Intel";" HD Graphics 620";"windows";8;99900;157
+826;"Toshiba";"Notebook";14.0;"medium";1366;768;0;"2.10";4;"SSD";128;0;"Intel";" HD Graphics 510";"windows";4;26587;112
+827;"Asus";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;60303;166
+828;"Dell";"Notebook";14.0;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;31169;112
+829;"Acer";"Netbook";11.6;"small";1366;768;0;"1.60";4;"Flash Storage";32;0;"Intel";" HD Graphics 400";"others";4;18914;135
+830;"Acer";"Notebook";14.0;"medium";1920;1080;0;"2.40";8;"SSD";128;0;"Intel";" HD Graphics 620";"windows";8;32980;157
+831;"Razer";"Gaming";17.3;"large";3840;2160;1;"2.90";32;"SSD";512;0;"Nvidia";" GeForce GTX 1080";"windows";32;292987;255
+832;"Lenovo";"Ultrabook";14.0;"medium";2560;1440;0;"2.60";16;"SSD";512;0;"Intel";" HD Graphics 520";"windows";16;111835;210
+833;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";1024;0;"Nvidia";" GeForce 920";"linux";4;27652;141
+834;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;63190;157
+835;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;87912;157
+836;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;147832;141
+837;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;128884;127
+838;"Toshiba";"Notebook";15.6;"medium";1366;768;0;"2.40";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;35644;100
+839;"Lenovo";"Notebook";14.0;"medium";1366;768;0;"1.60";4;"Flash Storage";16;0;"Intel";" HD Graphics 400";"others";4;17316;112
+840;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";128;0;"Intel";" HD Graphics 620";"windows";8;31435;141
+841;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.60";16;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1060";"windows";16;95851;127
+842;"Dell";"Gaming";17.3;"large";1920;1080;0;"2.80";32;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1070";"windows";32;163724;127
+843;"HP";"Notebook";17.3;"large";1600;900;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce 930MX";"windows";8;48485;106
+844;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"SSD";128;0;"Intel";" HD Graphics 620";"windows";8;38041;100
+845;"HP";"Ultrabook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";512;0;"Intel";" HD Graphics 520";"windows";8;99634;157
+846;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";4;"SSD";256;0;"AMD";" Radeon R5 M420";"windows";4;39374;141
+847;"HP";"2 in 1 Convertible";11.6;"small";1366;768;1;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"others";4;32767;135
+848;"Asus";"Ultrabook";13.3;"small";1920;1080;0;"2.30";8;"SSD";512;0;"Nvidia";" GeForce 940M";"windows";8;54665;166
+849;"HP";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;121319;166
+850;"HP";"Ultrabook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";512;0;"Intel";" HD Graphics 520";"windows";8;78215;157
+851;"HP";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"SSD";128;0;"Intel";" HD Graphics 400";"N/A";4;15931;100
+852;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";16;101179;141
+853;"Dell";"Notebook";17.3;"large";1920;1080;0;"2.70";8;"HDD";1024;0;"AMD";" Radeon R7 M445";"linux";8;46087;127
+854;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Nvidia";" GeForce GT 940MX";"windows";8;101392;157
+855;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce GTX 930MX";"windows";8;41931;141
+856;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";128;0;"Intel";" HD Graphics 620";"windows";8;50350;141
+857;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 505";"windows";4;23923;100
+858;"HP";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.80";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;136344;166
+859;"Dell";"Notebook";13.3;"small";1920;1080;1;"2.30";8;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";8;34579;166
+860;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"N/A";4;24988;141
+861;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;45323;141
+862;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"AMD";" Radeon R7 M465";"windows";8;71875;141
+863;"Toshiba";"Notebook";13.3;"small";1920;1080;0;"2.50";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;68465;166
+864;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"N/A";8;54186;141
+865;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"2.50";16;"SSD";512;0;"Intel";" Iris Plus Graphics 640";"windows";16;63376;276
+866;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;48485;141
+867;"Toshiba";"Ultrabook";13.3;"small";1366;768;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;58342;118
+868;"Lenovo";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;103896;166
+869;"Acer";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;33889;157
+870;"Dell";"Workstation";15.6;"medium";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" Quadro M620";"windows";8;94732;141
+871;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;56210;100
+872;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M430";"N/A";4;25521;141
+873;"Toshiba";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;73953;141
+874;"Lenovo";"Notebook";13.3;"small";1920;1080;0;"2.40";4;"SSD";180;0;"Intel";" HD Graphics 620";"windows";4;39161;166
+875;"Samsung";"Ultrabook";15.0;"medium";1920;1080;0;"2.70";16;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";16;98515;147
+876;"Dell";"Ultrabook";12.5;"small";1920;1080;0;"2.80";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;90043;176
+877;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 505";"linux";4;21258;100
+878;"Xiaomi";"Ultrabook";13.3;"small";1920;1080;0;"2.30";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;49817;166
+879;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"Hybrid";128;1024;"Nvidia";" GeForce 940MX";"windows";4;48618;141
+880;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;44702;141
+881;"HP";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;90576;166
+882;"HP";"2 in 1 Convertible";15.6;"medium";1366;768;1;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;36486;100
+883;"Asus";"Notebook";14.1;"medium";1366;768;0;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;18541;111
+884;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce 940MX";"windows";8;35644;141
+885;"Dell";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics";"windows";4;19660;100
+886;"HP";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;95851;166
+887;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M420X";"linux";4;24280;100
+888;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.50";12;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";12;72988;127
+889;"Acer";"Netbook";11.6;"small";1366;768;0;"1.60";4;"Flash Storage";32;0;"Intel";" HD Graphics 400";"others";4;15824;135
+890;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.20";4;"HDD";500;0;"AMD";" Radeon R3";"windows";4;20193;106
+891;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.50";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;67399;157
+892;"HP";"2 in 1 Convertible";13.3;"small";3200;1800;1;"2.70";16;"SSD";256;0;"Intel";" HD Graphics 620";"windows";16;74539;276
+893;"Samsung";"Ultrabook";15.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;90523;147
+894;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;95851;157
+895;"MSI";"Gaming";17.3;"large";3840;2160;0;"2.60";16;"Hybrid";512;2048;"Nvidia";" GeForce GTX 1060";"windows";16;141139;255
+896;"Toshiba";"Notebook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;78588;166
+897;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050Ti";"linux";8;49497;141
+898;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce 930MX";"windows";8;47952;141
+899;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M420X";"windows";4;32714;100
+900;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.60";8;"HDD";500;0;"Intel";" HD Graphics 620";"windows";8;49817;141
+901;"Dell";"2 in 1 Convertible";13.3;"small";3200;1800;1;"1.30";8;"SSD";512;0;"Intel";" HD Graphics 615";"windows";8;107258;276
+902;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.70";32;"SSD";256;256;"Nvidia";" GeForce GTX 980M";"windows";32;68145;127
+903;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.30";16;"SSD";256;0;"Intel";" HD Graphics 615";"windows";16;87859;166
+904;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";8;"Flash Storage";256;0;"Intel";" HD Graphics 620";"windows";8;109171;157
+905;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;104588;141
+906;"LG";"Ultrabook";15.6;"medium";1920;1080;1;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;111835;141
+907;"HP";"Netbook";12.5;"small";1920;1080;0;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;79014;176
+908;"Acer";"Notebook";15.6;"medium";1920;1080;0;"1.50";4;"Flash Storage";16;0;"Intel";" HD Graphics";"others";4;19128;141
+909;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.30";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960M";"windows";8;42038;141
+910;"LG";"Ultrabook";14.0;"medium";1920;1080;1;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;101179;157
+911;"Dell";"Notebook";14.0;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;64202;157
+912;"HP";"Ultrabook";12.5;"small";3840;2160;1;"1.20";8;"SSD";240;0;"Intel";" HD Graphics 515";"windows";8;165168;352
+913;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.70";6;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";6;42038;141
+914;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;54292;141
+915;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.40";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;26587;141
+916;"Lenovo";"Notebook";13.3;"small";1920;1080;0;"2.50";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;46940;166
+917;"HP";"Notebook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;51149;166
+918;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;85195;127
+919;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;71875;141
+920;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;59669;141
+921;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";1024;0;"AMD";" Radeon R5 M420";"windows";4;36496;100
+0;"HP";"Ultrabook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;52161;141
+925;"Lenovo";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;97236;166
+926;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;38889;100
+927;"Lenovo";"Ultrabook";12.5;"small";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;87912;176
+928;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;62071;141
+929;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;37725;100
+930;"HP";"Notebook";14.0;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;61219;112
+931;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 505";"windows";4;16464;100
+932;"HP";"Ultrabook";12.5;"small";1920;1080;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;84129;176
+933;"HP";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";1024;0;"Intel";" HD Graphics 400";"N/A";4;15393;100
+934;"Lenovo";"2 in 1 Convertible";13.3;"small";3200;1800;1;"2.20";16;"SSD";1024;0;"Intel";" Iris Graphics 540";"windows";16;95851;276
+935;"Toshiba";"Notebook";14.0;"medium";1920;1080;0;"2.30";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;58874;157
+936;"HP";"Netbook";12.5;"small";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;88924;176
+937;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";4;29762;100
+0;"MSI";"Gaming";15.6;"medium";1920;1080;0;"1.60";8;"Hybrid";128;1024;"Intel";" UHD Graphics 620";"windows";8;52161;141
+940;"Dell";"Gaming";17.3;"large";2560;1440;0;"2.70";16;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1080";"windows";16;146946;170
+941;"HP";"Gaming";17.3;"large";1920;1080;0;"2.30";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 965M";"windows";8;74539;127
+942;"Asus";"Notebook";17.3;"large";1600;900;0;"1.60";4;"HDD";1024;0;"Nvidia";" GeForce 920MX";"windows";4;28238;106
+943;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;32980;100
+944;"Toshiba";"Notebook";15.6;"medium";1366;768;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;59620;100
+945;"Lenovo";"2 in 1 Convertible";11.3;"small";1920;1080;1;"1.20";8;"SSD";256;0;"Intel";" HD Graphics 515";"windows";8;69211;195
+946;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.10";16;"Hybrid";512;1024;"AMD";" Radeon R9 M385";"windows";16;53227;141
+947;"Dell";"Ultrabook";12.5;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics";"windows";8;78439;176
+948;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce 920MX";"N/A";8;36497;141
+949;"Dell";"Notebook";17.3;"large";1600;900;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R7 M445";"windows";4;35112;106
+950;"Acer";"Notebook";14.0;"medium";1366;768;0;"1.60";4;"Flash Storage";32;0;"Intel";" HD Graphics 400";"others";4;18595;112
+951;"HP";"Workstation";15.6;"medium";1920;1080;0;"2.70";8;"SSD";8;0;"Nvidia";" Quadro M1000M";"windows";8;119827;141
+952;"Dell";"Ultrabook";14.0;"medium";1920;1080;0;"2.80";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;94572;157
+953;"Toshiba";"Notebook";13.3;"small";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;77789;166
+954;"Asus";"2 in 1 Convertible";12.5;"small";1920;1080;0;"1.20";8;"Flash Storage";64;0;"Intel";" HD Graphics 515";"others";8;61752;176
+955;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;79333;157
+956;"Dell";"Gaming";17.3;"large";3840;2160;0;"2.80";16;"Hybrid";512;1024;"Nvidia";" GeForce GTX 1070";"windows";16;168045;255
+957;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"1.20";8;"SSD";256;0;"Intel";" HD Graphics 615";"windows";8;101179;166
+958;"HP";"2 in 1 Convertible";11.6;"small";1366;768;1;"1.10";4;"SSD";256;0;"Intel";" HD Graphics 505";"windows";4;41292;135
+959;"Dell";"Ultrabook";13.3;"small";3200;1800;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;67559;276
+960;"Acer";"2 in 1 Convertible";11.6;"small";1366;768;1;"1.60";4;"Flash Storage";32;0;"Intel";" HD Graphics 400";"others";4;20726;135
+961;"Toshiba";"Notebook";13.3;"small";1920;1080;0;"2.40";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;81785;166
+962;"Lenovo";"Ultrabook";12.5;"small";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;93773;176
+963;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.50";12;"Hybrid";128;1024;"Nvidia";" GeForce GTX 950M";"windows";12;53760;141
+964;"Toshiba";"Ultrabook";12.5;"small";1920;1080;1;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;95371;176
+965;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce 930MX";"windows";8;45102;100
+966;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M430";"linux";4;24808;100
+967;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;43956;100
+968;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.40";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;36497;141
+969;"Dell";"Gaming";17.3;"large";1920;1080;0;"2.80";32;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";32;167779;127
+970;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";6;"SSD";256;0;"Nvidia";" GeForce 920MX";"windows";6;37030;141
+971;"Dell";"2 in 1 Convertible";13.3;"small";3200;1800;1;"1.30";16;"SSD";512;0;"Intel";" HD Graphics 615";"windows";16;101179;276
+972;"Dell";"Ultrabook";14.0;"medium";2560;1440;1;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;104588;210
+973;"Dell";"Gaming";17.3;"large";1920;1080;0;"2.60";32;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";32;149184;127
+974;"Toshiba";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;62870;157
+975;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;109219;127
+976;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"Hybrid";128;1024;"Nvidia";" GeForce 930MX";"windows";8;52161;141
+977;"Lenovo";"Notebook";14.0;"medium";1366;768;0;"2.30";4;"Hybrid";508;0;"Intel";" HD Graphics 520";"windows";4;53387;112
+0;"Asus";"2 in 1 Convertible";15.6;"medium";3840;2160;1;"1.60";8;"Hybrid";512;2048;"Intel";" UHD Graphics 620";"windows";8;52161;282
+980;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;93187;127
+981;"Dell";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.70";12;"SSD";512;0;"Intel";" HD Graphics 620";"windows";12;69211;141
+982;"Toshiba";"Notebook";13.3;"small";1920;1080;0;"2.30";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;63670;166
+983;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"3.60";6;"SSD";256;0;"AMD";" Radeon 530";"windows";6;29251;141
+984;"Fujitsu";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"SSD";256;0;"Intel";" HD Graphics 520";"windows";4;34579;100
+985;"Toshiba";"Notebook";14.0;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;48751;112
+986;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"AMD";" Radeon R5 M430";"windows";4;31915;100
+987;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;42944;141
+988;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";8;63350;141
+989;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.70";8;"HDD";1024;0;"AMD";" Radeon R7 M445";"windows";8;39907;100
+990;"Dell";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";128;0;"Intel";" HD Graphics 620 ";"windows";8;59620;157
+991;"HP";"Netbook";12.5;"small";1920;1080;0;"1.20";8;"SSD";512;0;"Intel";" HD Graphics 515";"windows";8;101658;176
+992;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"Hybrid";128;1024;"AMD";" Radeon 520";"windows";4;26587;141
+993;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"SSD";128;0;"Intel";" HD Graphics 500";"N/A";4;14419;100
+0;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;52161;141
+996;"Asus";"Notebook";13.3;"small";3200;1800;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;61272;276
+997;"HP";"Ultrabook";13.3;"small";1920;1080;1;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;71875;166
+998;"Acer";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";500;0;"Intel";" HD Graphics 505";"windows";4;20246;100
+999;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;95851;141
+1000;"HP";"Ultrabook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";512;0;"Intel";" HD Graphics 620";"windows";8;111302;157
+1001;"Acer";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;67133;141
+1002;"HP";"Notebook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;63350;166
+1003;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.40";4;"SSD";128;0;"Intel";" HD Graphics 620";"windows";4;29144;100
+1004;"HP";"Notebook";14.0;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;41505;112
+1005;"Toshiba";"Notebook";13.3;"small";1920;1080;0;"2.30";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;63670;166
+1006;"HP";"Notebook";14.0;"medium";1366;768;0;"2.40";4;"SSD";256;0;"Intel";" HD Graphics 520";"windows";4;58607;112
+1007;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;64202;157
+1008;"HP";"Ultrabook";14.0;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;77203;157
+1009;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;55905;157
+1010;"HP";"Notebook";14.0;"medium";1366;768;0;"2.40";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;36444;112
+1011;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;50563;141
+1012;"HP";"Ultrabook";12.5;"small";1920;1080;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;81998;176
+1013;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;84715;157
+1014;"HP";"Ultrabook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;100551;157
+1015;"HP";"Notebook";13.3;"small";1366;768;0;"2.40";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;42624;118
+1016;"Toshiba";"Notebook";13.3;"small";1366;768;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;64469;118
+1017;"HP";"Notebook";15.6;"medium";1366;768;0;"2.40";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;41025;100
+1018;"Lenovo";"Notebook";17.3;"large";3840;2160;0;"2.70";16;"SSD";512;0;"Nvidia";" Quadro 3000M";"windows";16;158135;255
+1019;"Toshiba";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;79387;157
+1020;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;118761;157
+1021;"Dell";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.30";4;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";4;42410;141
+1022;"Toshiba";"Ultrabook";13.3;"small";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;84715;166
+1023;"HP";"Notebook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;61219;166
+1024;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;63160;157
+1025;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.40";8;"HDD";500;0;"Intel";" HD Graphics 520";"windows";8;55754;141
+1026;"HP";"Ultrabook";12.5;"small";1366;768;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;83064;125
+1027;"HP";"Notebook";14.0;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;63350;112
+1028;"HP";"Notebook";14.0;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;56477;112
+1029;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;86527;276
+1030;"HP";"Notebook";17.3;"large";1920;1080;0;"2.50";8;"SSD";256;0;"Nvidia";" GeForce 930MX";"windows";8;57542;127
+1031;"HP";"Notebook";14.0;"medium";1366;768;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;51841;112
+1032;"Acer";"Notebook";15.6;"medium";1366;768;0;"3.00";6;"HDD";1024;0;"AMD";" Radeon R5";"windows";6;21792;100
+1033;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;63499;127
+1034;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;63670;157
+1035;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;65481;141
+1036;"HP";"Ultrabook";12.5;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;71875;176
+1037;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;39534;100
+1038;"Toshiba";"Ultrabook";14.0;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;91908;157
+1039;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.40";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;56634;141
+1040;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;53840;157
+1041;"Lenovo";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 520";"windows";4;45128;141
+1042;"Vero";"Notebook";14.0;"medium";1366;768;0;"1.44";2;"Flash Storage";32;0;"Intel";" HD Graphics 400";"windows";2;11231;112
+1043;"Toshiba";"Notebook";15.6;"medium";1920;1080;0;"2.50";16;"SSD";256;0;"Nvidia";" GeForce 930M";"windows";16;66065;141
+1044;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;55923;141
+1045;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;53280;157
+1046;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.40";8;"Hybrid";256;500;"Intel";" HD Graphics 520";"windows";8;112066;141
+1047;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;78268;157
+1048;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.70";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 980M";"windows";16;82352;127
+1049;"Lenovo";"Gaming";17.3;"large";1920;1080;0;"2.60";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 980M";"windows";16;122011;127
+1050;"Asus";"Netbook";11.6;"small";1366;768;0;"1.60";4;"Flash Storage";16;0;"Intel";" HD Graphics 400";"others";4;15339;135
+1051;"Lenovo";"Notebook";14.0;"medium";2560;1440;0;"2.60";16;"SSD";256;0;"Intel";" HD Graphics 520";"windows";16;139594;210
+1052;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce 940MX";"windows";8;52161;141
+1053;"Dell";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;58288;141
+1054;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;52161;100
+1055;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"2.70";16;"SSD";1024;0;"Intel";" HD Graphics 620";"windows";16;120093;276
+1056;"HP";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;57667;100
+1057;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"N/A";4;26587;100
+1058;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.20";8;"HDD";1024;0;"AMD";" Radeon R5";"windows";8;23923;100
+1059;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.70";12;"SSD";256;0;"Intel";" HD Graphics 620";"windows";12;69211;166
+0;"MSI";"Gaming";15.6;"medium";1920;1080;0;"1.60";8;"Hybrid";256;1024;"Intel";" UHD Graphics 620";"windows";8;52161;141
+1062;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.60";16;"HDD";1024;0;"Nvidia";" GeForce GTX 965M";"N/A";16;53173;127
+1063;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";1024;0;"Intel";" HD Graphics";"windows";4;29784;141
+1064;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";16;"HDD";2048;0;"AMD";" Radeon R7 M445";"windows";16;52747;141
+1065;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.60";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;102777;141
+1066;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;77682;166
+1067;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.70";64;"SSD";1024;0;"Nvidia";" GeForce GTX 980 ";"windows";64;211788;127
+1068;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;42518;166
+1069;"Dell";"Gaming";15.6;"medium";3840;2160;0;"2.60";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 970M";"windows";16;70809;282
+1070;"Apple";"Ultrabook";12.0;"small";2304;1440;0;"1.10";8;"Flash Storage";256;0;"Intel";" HD Graphics 515";"macos";8;69264;226
+1071;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;25680;100
+1072;"HP";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;63883;100
+1073;"HP";"Ultrabook";12.5;"small";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;63883;176
+1074;"HP";"Notebook";13.3;"small";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;58075;166
+1075;"Lenovo";"Ultrabook";12.5;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;91295;176
+1076;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.30";8;"HDD";1024;0;"AMD";" Radeon R5 M330";"windows";8;35112;106
+1077;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.30";4;"HDD";1024;0;"Nvidia";" GeForce GTX 950M";"windows";4;52055;141
+1078;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;133147;127
+1079;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;28771;100
+1080;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;50083;141
+1081;"Lenovo";"Ultrabook";12.5;"small";2560;1440;1;"1.20";8;"SSD";512;0;"Intel";" HD Graphics 515";"windows";8;74539;235
+1082;"Lenovo";"Gaming";17.3;"large";1920;1080;0;"2.70";32;"SSD";512;1024;"Nvidia";" GeForce GTX 980M";"windows";32;172627;127
+1083;"Lenovo";"2 in 1 Convertible";10.1;"small";1920;1200;1;"1.44";4;"Flash Storage";64;0;"Intel";" HD Graphics 400";"windows";4;34433;224
+1084;"HP";"Ultrabook";13.3;"small";3840;2160;0;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;109171;331
+1085;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;39960;141
+1086;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;54931;157
+1087;"HP";"Workstation";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"AMD";" FirePro W4190M";"windows";8;79654;141
+1088;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";180;0;"Intel";" HD Graphics 520";"windows";8;63883;157
+1089;"HP";"Notebook";13.3;"small";3200;1800;0;"1.50";4;"Flash Storage";32;0;"Intel";" HD Graphics 515";"others";4;32767;276
+1090;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.20";4;"HDD";500;0;"AMD";" Radeon R5";"windows";4;20619;100
+1091;"Dell";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics";"linux";4;20965;100
+1092;"HP";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"N/A";4;18434;100
+1093;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";8;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";8;85195;127
+1094;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"1.60";4;"SSD";256;0;"AMD";" Radeon 530";"windows";4;43602;166
+1095;"HP";"Netbook";12.5;"small";1366;768;0;"2.30";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;85195;125
+1096;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";256;1024;"Nvidia";" GeForce GTX 950M";"windows";8;42571;141
+1097;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"AMD";" Radeon R7 M445";"windows";8;34035;141
+1098;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.60";8;"SSD";256;0;"Nvidia";" GeForce GTX 965M";"windows";8;85195;127
+1099;"HP";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";1024;0;"Intel";" HD Graphics 405";"windows";4;26640;100
+1100;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.60";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 980M";"windows";16;122491;127
+1101;"Dell";"Ultrabook";12.5;"small";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;60481;125
+1102;"Dell";"Ultrabook";12.5;"small";1366;768;0;"2.30";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;62176;125
+1103;"Acer";"Notebook";15.6;"medium";1366;768;0;"1.50";4;"SSD";16;0;"Intel";" HD Graphics";"others";4;11136;100
+1104;"HP";"Workstation";17.3;"large";1920;1080;0;"2.60";8;"HDD";1024;0;"AMD";" FirePro W6150M";"windows";8;154459;127
+1105;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"SSD";512;0;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;63883;141
+1106;"Dell";"Ultrabook";12.5;"small";1366;768;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;75290;125
+1107;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.60";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960M";"windows";8;80516;127
+1108;"Lenovo";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.30";4;"SSD";256;0;"Intel";" HD Graphics 520";"windows";4;46194;141
+1109;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";1024;0;"AMD";" Radeon R4";"windows";4;21205;141
+1110;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.60";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960M";"windows";16;71342;141
+1111;"HP";"Notebook";13.3;"small";3200;1800;1;"1.10";8;"SSD";256;0;"Intel";" HD Graphics 515";"windows";8;90523;276
+1112;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"AMD";" Radeon R5 M315";"windows";4;40980;100
+1113;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;22857;100
+1114;"HP";"Ultrabook";13.3;"small";1920;1080;0;"2.50";8;"SSD";512;0;"Intel";" HD Graphics 520";"windows";8;57667;166
+1115;"Lenovo";"2 in 1 Convertible";10.1;"small";1920;1200;1;"1.44";4;"Flash Storage";64;0;"Intel";" HD Graphics 400";"others";4;29251;224
+1116;"Dell";"Ultrabook";13.3;"small";1920;1080;0;"2.40";8;"SSD";256;0;"Intel";" Iris Plus Graphics 640";"windows";8;73473;166
+1117;"Lenovo";"Gaming";17.3;"large";1920;1080;0;"2.70";16;"SSD";256;1024;"Nvidia";" GeForce GTX 980M";"windows";16;146519;127
+1118;"Razer";"Ultrabook";12.5;"small";3840;2160;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;54825;352
+1119;"Toshiba";"Ultrabook";13.3;"small";1920;1080;0;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;118601;166
+1120;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.60";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960M";"windows";8;69929;127
+1121;"Vero";"Notebook";13.3;"small";1920;1080;0;"1.44";4;"Flash Storage";32;0;"Intel";" HD Graphics 400";"windows";4;10443;166
+1122;"HP";"Notebook";13.3;"small";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;90043;166
+1123;"HP";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;80613;157
+1124;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"linux";4;27899;100
+1125;"Asus";"Notebook";15.6;"medium";1366;768;0;"2.40";4;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";4;23177;100
+1126;"Lenovo";"2 in 1 Convertible";14.0;"medium";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;88924;157
+1127;"Lenovo";"2 in 1 Convertible";10.1;"small";1920;1200;1;"1.44";4;"Flash Storage";64;0;"Intel";" HD Graphics 400";"windows";4;25521;224
+1128;"HP";"Ultrabook";12.5;"small";1366;768;0;"2.40";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;100966;125
+1129;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"N/A";8;52694;141
+1130;"HP";"Gaming";17.3;"large";1920;1080;0;"2.30";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";8;60153;127
+1131;"HP";"Notebook";15.6;"medium";1366;768;0;"2.70";8;"HDD";2048;0;"Intel";" HD Graphics 620";"windows";8;33513;100
+1132;"Lenovo";"2 in 1 Convertible";14.0;"medium";1920;1080;1;"2.60";8;"SSD";512;0;"Nvidia";" Quadro M500M";"windows";8;109244;157
+1133;"Asus";"Notebook";14.0;"medium";1366;768;0;"1.10";4;"Flash Storage";32;0;"Intel";" HD Graphics 500";"windows";4;14812;112
+1134;"HP";"Ultrabook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;40067;141
+1135;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"HDD";1024;0;"Nvidia";" GeForce 940MX";"windows";4;32820;141
+1136;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";16;"Hybrid";1024;0;"AMD";" Radeon R7 M360";"windows";16;58555;141
+1137;"HP";"Workstation";17.3;"large";1920;1080;0;"2.60";8;"SSD";256;0;"Nvidia";" Quadro M3000M";"windows";8;210424;127
+1138;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"HDD";1024;0;"AMD";" Radeon R7 M445";"windows";8;41772;100
+1139;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.70";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 980M";"windows";16;127819;127
+1140;"HP";"Ultrabook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;115709;141
+1141;"Lenovo";"2 in 1 Convertible";14.0;"medium";2560;1440;1;"2.60";16;"SSD";512;0;"Intel";" HD Graphics 520";"windows";16;130003;210
+1142;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;60888;141
+1143;"HP";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.40";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;86793;166
+1144;"HP";"Workstation";15.6;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Nvidia";" Quadro M1000M";"windows";8;118761;141
+1145;"HP";"2 in 1 Convertible";13.3;"small";2560;1440;1;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;95851;221
+1146;"HP";"Workstation";15.6;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Nvidia";" Quadro M1000M";"windows";8;101179;141
+1147;"HP";"Ultrabook";12.5;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;122381;176
+1148;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";8;63376;141
+1149;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;84129;141
+1150;"Lenovo";"2 in 1 Convertible";14.0;"medium";2560;1440;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;124622;210
+1151;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"N/A";4;18062;100
+1152;"HP";"Notebook";15.6;"medium";1366;768;0;"1.80";4;"HDD";500;0;"AMD";" Radeon R2 Graphics";"windows";4;15824;100
+1153;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.30";8;"HDD";1024;0;"AMD";" Radeon R5 M330";"N/A";8;31915;141
+1154;"Dell";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050Ti";"windows";8;63883;141
+1155;"Dell";"Notebook";15.6;"medium";3840;2160;1;"2.30";8;"SSD";256;0;"Nvidia";" GeForce 960M";"windows";8;119916;282
+1156;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"AMD";" Radeon 520";"windows";4;25515;141
+1157;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";16;79536;127
+1158;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.60";12;"SSD";512;0;"Intel";" HD Graphics 520";"windows";12;122491;157
+1159;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.30";8;"Hybrid";1024;0;"AMD";" Radeon R5 M330";"windows";8;42011;141
+1160;"HP";"2 in 1 Convertible";13.3;"small";2560;1440;1;"2.60";8;"SSD";512;0;"Intel";" HD Graphics 520";"windows";8;108744;221
+1161;"Lenovo";"Ultrabook";14.0;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;79867;157
+1162;"MSI";"Gaming";14.0;"medium";1920;1080;0;"2.60";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 970M";"windows";16;94252;157
+1163;"HP";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;47899;141
+1164;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";8;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";8;24456;100
+1165;"HP";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"N/A";4;25414;100
+1166;"Dell";"Gaming";15.6;"medium";3840;2160;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050 Ti";"windows";8;79813;282
+1167;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;74059;141
+1168;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"Nvidia";" GeForce 920MX ";"windows";4;24935;141
+1169;"HP";"Notebook";14.0;"medium";1366;768;0;"1.60";2;"Flash Storage";32;0;"Intel";" HD Graphics 400";"windows";2;13267;112
+1170;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;44702;141
+1171;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;36177;141
+1172;"HP";"Notebook";15.6;"medium";1920;1080;0;"1.80";16;"SSD";512;0;"Intel";" UHD Graphics 620";"windows";16;61752;141
+1174;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"N/A";4;21205;100
+1175;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"HDD";1024;0;"Nvidia";" GeForce 940MX";"N/A";8;37776;141
+1176;"Asus";"Notebook";14.0;"medium";1920;1080;0;"2.40";4;"SSD";256;0;"Intel";" HD Graphics 620";"windows";4;40972;157
+1177;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"Hybrid";1024;0;"Intel";" HD Graphics 520";"windows";4;43956;141
+1178;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.60";16;"SSD";512;0;"Nvidia";" GeForce GTX 960";"windows";16;69530;141
+1179;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.60";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 970M";"windows";16;114732;141
+1180;"HP";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;34632;100
+1181;"Lenovo";"2 in 1 Convertible";14.0;"medium";2560;1440;1;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;87219;210
+1182;"Lenovo";"Ultrabook";15.6;"medium";1920;1080;0;"2.70";6;"SSD";256;0;"Nvidia";" GeForce 920M";"windows";6;44276;141
+1183;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.70";8;"SSD";256;0;"Nvidia";" GeForce GT 940MX";"linux";8;47686;141
+1184;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 500";"windows";4;17742;100
+1185;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.60";6;"HDD";1024;0;"Nvidia";" GeForce GTX 960M";"windows";6;42571;141
+1186;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.60";8;"Hybrid";256;1024;"Nvidia";" GeForce GTX 960M";"windows";8;48432;141
+1187;"Dell";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;62817;141
+1188;"Acer";"Notebook";15.6;"medium";1920;1080;0;"2.50";4;"SSD";256;0;"Nvidia";" GeForce 940MX";"windows";4;36816;141
+1189;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"2.40";8;"SSD";256;0;"Intel";" HD Graphics 520";"linux";8;58555;276
+1190;"Acer";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;138475;127
+1191;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.50";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1050";"windows";8;43636;141
+1192;"Samsung";"2 in 1 Convertible";12.3;"small";2400;1600;1;"2.00";4;"Flash Storage";32;0;"ARM";" Mali T860 MP4";"others";4;35112;235
+1193;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;25841;100
+1194;"Apple";"Ultrabook";12.0;"small";2304;1440;0;"1.10";8;"Flash Storage";256;0;"Intel";" HD Graphics 5300";"macos";8;61965;226
+1195;"Dell";"2 in 1 Convertible";13.3;"small";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;63883;166
+1196;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.80";12;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";12;70703;141
+1197;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"AMD";" Radeon R5 M430";"N/A";4;19607;100
+1198;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.60";16;"Hybrid";512;1024;"Nvidia";" GeForce GTX 980M";"windows";16;114552;127
+1199;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 500";"linux";4;14492;100
+1200;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;109165;127
+1201;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"SSD";128;0;"AMD";" Radeon R7 M440";"windows";4;26587;100
+0;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"HDD";500;0;"Intel";" UHD Graphics 620";"N/A";8;52161;100
+1204;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;142790;276
+1205;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.60";8;"HDD";1024;0;"Nvidia";" GeForce GTX 1060";"windows";8;62284;141
+1206;"Dell";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"AMD";" Radeon R7 M445";"windows";8;47366;141
+1207;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;30849;100
+1208;"Lenovo";"Notebook";15.6;"medium";1366;768;0;"2.20";4;"HDD";500;0;"AMD";" Radeon R2 Graphics";"windows";4;15931;100
+1209;"Acer";"Notebook";17.3;"large";1600;900;0;"2.00";8;"HDD";1024;0;"Nvidia";" GeForce 940MX";"windows";8;33513;106
+1210;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;130483;141
+1211;"Apple";"Ultrabook";12.0;"small";2304;1440;0;"1.20";8;"Flash Storage";512;0;"Intel";" HD Graphics 515";"macos";8;68145;226
+1212;"Asus";"Notebook";15.6;"medium";1920;1080;0;"2.80";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";16;93187;141
+1213;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.60";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;103842;127
+1214;"Dell";"2 in 1 Convertible";15.6;"medium";1920;1080;1;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;53227;141
+1215;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;103843;127
+1216;"Acer";"Netbook";11.6;"small";1366;768;0;"1.50";2;"SSD";32;0;"Intel";" HD Graphics";"others";2;9271;135
+1217;"Acer";"Notebook";17.3;"large";1600;900;0;"2.00";4;"HDD";1024;0;"Nvidia";" GeForce 940MX";"windows";4;31861;106
+1218;"Lenovo";"Notebook";17.3;"large";1600;900;0;"2.50";8;"HDD";1024;0;"Intel";" HD Graphics 620";"N/A";8;28718;106
+1219;"Lenovo";"Gaming";15.6;"medium";1920;1080;0;"2.60";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960<U+039C>";"windows";8;67772;141
+1220;"Acer";"2 in 1 Convertible";14.0;"medium";1920;1080;1;"1.30";8;"SSD";256;0;"Intel";" HD Graphics 615";"windows";8;61219;157
+1221;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.60";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;81465;141
+1222;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.60";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1060";"windows";8;78647;141
+1223;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.70";6;"HDD";1024;0;"AMD";" Radeon 530";"windows";6;28185;141
+1224;"Dell";"Ultrabook";12.5;"small";1920;1080;1;"2.40";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;91288;176
+1225;"Dell";"2 in 1 Convertible";15.0;"medium";1920;1080;1;"2.40";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;27120;147
+1226;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";1024;0;"Intel";" HD Graphics 405";"windows";4;16464;100
+1227;"Dell";"Ultrabook";13.3;"small";3200;1800;1;"2.70";8;"SSD";256;0;"Intel";" HD Graphics 620";"windows";8;78695;276
+1228;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";1024;0;"Intel";" HD Graphics 520";"linux";4;27805;100
+1229;"Lenovo";"Gaming";15.6;"medium";1920;1080;1;"2.60";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960M";"windows";16;54825;141
+1230;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.80";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 1050";"windows";8;61219;141
+1231;"Lenovo";"Netbook";12.5;"small";1920;1080;1;"2.50";16;"SSD";512;0;"Intel";" HD Graphics 520";"windows";16;87912;176
+1232;"Razer";"Gaming";14.0;"medium";1920;1080;0;"2.80";16;"SSD";1024;0;"Nvidia";" GeForce GTX 1060";"windows";16;186427;157
+1233;"Dell";"Notebook";15.6;"medium";1366;768;1;"2.40";8;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";8;24989;100
+1234;"MSI";"Gaming";17.3;"large";1920;1080;0;"2.80";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1060";"windows";16;85141;127
+1235;"Apple";"Ultrabook";11.6;"small";1366;768;0;"1.60";4;"Flash Storage";256;0;"Intel";" HD Graphics 6000";"macos";4;51096;135
+1236;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.00";4;"HDD";1024;0;"Intel";" HD Graphics 520";"windows";4;25468;141
+1237;"HP";"Ultrabook";14.0;"medium";2560;1440;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;117120;210
+1238;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.30";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;39267;100
+1239;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.60";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960M";"windows";8;62284;141
+1240;"Lenovo";"Notebook";13.3;"small";1920;1080;0;"2.70";16;"SSD";512;0;"Intel";" HD Graphics 620";"windows";16;79867;166
+1241;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"3.60";6;"SSD";256;0;"AMD";" Radeon 530";"windows";6;31839;141
+1242;"Asus";"Ultrabook";13.3;"small";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;68198;166
+1243;"Acer";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"linux";4;19277;100
+1244;"Dell";"2 in 1 Convertible";17.3;"large";1920;1080;1;"2.70";16;"SSD";512;0;"Nvidia";" GeForce 940MX";"windows";16;95851;127
+0;"HP";"Notebook";14.0;"medium";1920;1080;0;"1.60";8;"SSD";256;0;"Intel";" UHD Graphics 620";"windows";8;52161;157
+1247;"Dell";"Notebook";14.0;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Intel";" HD Graphics 620";"windows";4;46620;112
+1248;"Asus";"Gaming";15.6;"medium";1920;1080;0;"2.60";16;"Hybrid";256;1024;"Nvidia";" GeForce GTX 1070";"windows";16;123876;141
+1249;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"SSD";256;0;"Intel";" HD Graphics 620";"N/A";8;30529;141
+1250;"Dell";"2 in 1 Convertible";13.3;"small";3200;1800;1;"1.20";8;"SSD";256;0;"Intel";" HD Graphics 615";"windows";8;96597;276
+1251;"Dell";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics";"linux";4;17263;100
+1252;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"AMD";" Radeon R4 Graphics";"windows";4;21259;100
+1253;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.30";6;"SSD";128;0;"Nvidia";" GeForce 920MX";"windows";6;30316;141
+1254;"Lenovo";"Notebook";14.0;"medium";1920;1080;0;"2.30";8;"SSD";256;0;"Intel";" HD Graphics 520";"windows";8;57116;157
+1255;"Dell";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics";"windows";4;23656;100
+1256;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.10";4;"HDD";1024;0;"Intel";" HD Graphics 500";"windows";4;18062;100
+1257;"Asus";"Gaming";17.3;"large";1920;1080;0;"2.60";16;"Hybrid";128;1024;"Nvidia";" GeForce GTX 970M";"windows";16;101232;127
+1258;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.00";4;"HDD";500;0;"Intel";" HD Graphics 520";"windows";4;26107;100
+1259;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.50";8;"Hybrid";1024;0;"AMD";" Radeon R5 M330";"windows";8;47686;141
+1260;"MSI";"Gaming";15.6;"medium";1920;1080;0;"2.60";8;"Hybrid";128;1024;"Nvidia";" GeForce GTX 960M";"windows";8;65481;141
+1261;"Lenovo";"2 in 1 Convertible";14.0;"medium";1920;1080;1;"2.30";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;44383;157
+1289;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics";"windows";4;19660;100
+1290;"Asus";"Ultrabook";13.3;"small";1920;1080;0;"0.90";8;"SSD";512;0;"Intel";" HD Graphics 515";"windows";8;38841;166
+1291;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.40";6;"HDD";1024;0;"Intel";" HD Graphics 620";"windows";6;24456;100
+1292;"Acer";"Notebook";15.6;"medium";1366;768;0;"1.60";4;"HDD";500;0;"Intel";" HD Graphics 400";"linux";4;15398;100
+1293;"Dell";"Notebook";15.6;"medium";1366;768;0;"1.60";2;"HDD";500;0;"Intel";" HD Graphics";"windows";2;20193;100
+1294;"Lenovo";"Notebook";15.6;"medium";1920;1080;0;"2.60";8;"HDD";1024;0;"Nvidia";" GeForce GTX 960M";"windows";8;47899;141
+1295;"HP";"Notebook";15.6;"medium";1920;1080;0;"2.90";6;"Hybrid";1024;0;"AMD";" Radeon R7 M440";"windows";6;29303;141
+1296;"Dell";"Notebook";15.6;"medium";1366;768;0;"2.70";8;"HDD";1024;0;"AMD";" Radeon R5 M430";"linux";8;42943;100
+1297;"HP";"Netbook";11.6;"small";1366;768;0;"1.60";2;"Flash Storage";32;0;"Intel";" HD Graphics 400";"windows";2;11136;135
+1298;"Asus";"Notebook";15.6;"medium";1366;768;0;"2.50";4;"HDD";500;0;"Nvidia";" GeForce 920M";"windows";4;38379;100
+1299;"Lenovo";"2 in 1 Convertible";14.0;"medium";1920;1080;1;"2.50";4;"SSD";128;0;"Intel";" HD Graphics 520";"windows";4;33993;157
+1300;"Lenovo";"2 in 1 Convertible";13.3;"small";3200;1800;1;"2.50";16;"SSD";512;0;"Intel";" HD Graphics 520";"windows";16;79867;276
+1301;"Lenovo";"Notebook";14.0;"medium";1366;768;0;"1.60";2;"Flash Storage";64;0;"Intel";" HD Graphics";"windows";2;12201;112
+1302;"HP";"Notebook";15.6;"medium";1366;768;0;"2.50";6;"HDD";1024;0;"AMD";" Radeon R5 M330";"windows";6;40706;100
+0;"Asus";"Notebook";15.6;"medium";1366;768;0;"1.60";8;"HDD";500;0;"Intel";" UHD Graphics 620";"windows";8;52161;100
